@@ -1293,7 +1293,8 @@
           </header>
 
           <section class="blog-posts">
-            <ul class="blog-posts-list">
+            <ul class="blog-posts-list" id="blogList">
+
               <li class="blog-post-item">
                 <a href="https://medium.com/@babu.cse46/functional-programming-vs-object-oriented-programming-oop-bf0ef12adb1b"  target="_blank">
                   <figure class="blog-banner-box">
@@ -1459,5 +1460,80 @@
   
     <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
+
+    <script>
+    // Define the URL of the JSON file
+    const jsonUrl = 'blog.json';
+
+    // Select the ul element where you want to append the data
+    const ul = document.getElementById('blogList');
+
+    // Fetch the JSON data
+    fetch(jsonUrl)
+      .then(response => response.json())
+      .then(data => {
+        // Loop through the JSON data and create list items
+        data.forEach(item => {
+          const li = document.createElement('li');
+          li.classList.add('blog-post-item');
+
+          const a = document.createElement('a');
+          a.href = item.url;
+          a.target = '_blank';
+
+          const figure = document.createElement('figure');
+          figure.classList.add('blog-banner-box');
+
+          const img = document.createElement('img');
+          img.src = item.image;
+          img.alt = item.imageAlt;
+          img.loading = 'lazy';
+
+          figure.appendChild(img);
+
+          const content = document.createElement('div');
+          content.classList.add('blog-content');
+
+          const meta = document.createElement('div');
+          meta.classList.add('blog-meta');
+
+          const category = document.createElement('p');
+          category.classList.add('blog-category');
+          category.textContent = item.category;
+
+          const dot = document.createElement('span');
+          dot.classList.add('dot');
+
+          const time = document.createElement('time');
+          time.setAttribute('datetime', item.date);
+          time.textContent = item.date;
+
+          meta.appendChild(category);
+          meta.appendChild(dot);
+          meta.appendChild(time);
+
+          const title = document.createElement('h3');
+          title.classList.add('h3', 'blog-item-title');
+          title.textContent = item.title;
+
+          const text = document.createElement('p');
+          text.classList.add('blog-text');
+          text.textContent = item.description;
+
+          content.appendChild(meta);
+          content.appendChild(title);
+          content.appendChild(text);
+
+          a.appendChild(figure);
+          a.appendChild(content);
+
+          li.appendChild(a);
+          ul.appendChild(li);
+        });
+      })
+      .catch(error => {
+        console.error('Error fetching JSON:', error);
+      });
+    </script>
   </body>
 </html>

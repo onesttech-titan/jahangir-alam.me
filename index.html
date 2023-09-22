@@ -60,9 +60,9 @@
 
           <ul class="contacts-list">
             <li class="contact-item">
-              <div class="icon-box">
+              <!-- <div class="icon-box">
                 <ion-icon name="mail-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <div class="contact-info">
                 <p class="contact-title">Email</p>
@@ -74,9 +74,9 @@
             </li>
 
             <li class="contact-item">
-              <div class="icon-box">
+              <!-- <div class="icon-box">
                 <ion-icon name="phone-portrait-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <div class="contact-info">
                 <p class="contact-title">Phone</p>
@@ -88,9 +88,9 @@
             </li>
 
             <li class="contact-item">
-              <div class="icon-box">
+              <!-- <div class="icon-box">
                 <ion-icon name="calendar-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <div class="contact-info">
                 <p class="contact-title">Skype</p>
@@ -99,14 +99,14 @@
             </li>
 
             <li class="contact-item">
-              <div class="icon-box">
+              <!-- <div class="icon-box">
                 <ion-icon name="location-outline"></ion-icon>
-              </div>
+              </div> -->
 
               <div class="contact-info">
                 <p class="contact-title">Location</p>
 
-                <address>Dhaka - Bangldesh</address>
+                <address>Dhaka-Bangldesh</address>
               </div>
             </li>
           </ul>
@@ -205,7 +205,7 @@
             <pre>
 • Bachelor’s Degree in Computer Science and Engineering.
 • Fluent in CSS, JavaScript and HTML, with an understanding of CSS including Sass and LESS.
-• Strong knowledge of PHP and MySQL, with working of MongoDB, PostgreSQL
+• Strong knowledge of PHP, Go , Python and MySQL, with working of MongoDB, PostgreSQL
 • Proficient in JS-based tools including Bower, Grunt and Gulp.
 • Experience working with languages such as Java, .Net, Python, PHP or Ruby.
 • Working experience as a full stack developer.
@@ -634,6 +634,12 @@
 
             <ol class="timeline-list">
               <li class="timeline-item">
+                <h4 class="h4 timeline-item-title">Chief information officer</h4>
+                <p>Onesttech</p>
+                <span>5 years 4 months</span>
+                <p class="timeline-text"> Banani, Dhaka, Bangladesh </p>
+              </li>
+              <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Chief Technology officer</h4>
 
                 <p>Sookh</p>
@@ -643,12 +649,14 @@
                   Banani, Dhaka, Bangladesh
                 </p>
               </li>
+
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Chief information officer</h4>
                 <p>Imprint Dhaka Limited</p>
                 <span>7 years 4 months</span>
                 <p class="timeline-text"> Banani, Dhaka, Bangladesh </p>
               </li>
+
               
             </ol>
 
@@ -660,7 +668,17 @@
             <ul class="skills-list content-card">
               <li class="skills-item">
                 <div class="title-wrapper">
-                  <h5 class="h5">web application</h5>
+                  <h5 class="h5">web application development</h5>
+                  <data value="90">90%</data>
+                </div>
+
+                <div class="skill-progress-bg">
+                  <div class="skill-progress-fill" style="width: 90%"></div>
+                </div>
+              </li>
+              <li class="skills-item">
+                <div class="title-wrapper">
+                  <h5 class="h5">mobile application development</h5>
                   <data value="80">80%</data>
                 </div>
 
@@ -671,34 +689,44 @@
 
               <li class="skills-item">
                 <div class="title-wrapper">
-                  <h5 class="h5">Graphic design</h5>
-                  <data value="70">70%</data>
+                  <h5 class="h5">Graphic designing (UI/UX)</h5>
+                  <data value="75">75%</data>
                 </div>
 
                 <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 70%"></div>
+                  <div class="skill-progress-fill" style="width: 75%"></div>
                 </div>
               </li>
 
               <li class="skills-item">
                 <div class="title-wrapper">
-                  <h5 class="h5">Branding</h5>
+                  <h5 class="h5">product Branding</h5>
+                  <data value="85">85%</data>
+                </div>
+
+                <div class="skill-progress-bg">
+                  <div class="skill-progress-fill" style="width: 85%"></div>
+                </div>
+              </li>
+              <li class="skills-item">
+                <div class="title-wrapper">
+                  <h5 class="h5">managerial</h5>
+                  <data value="85">85%</data>
+                </div>
+
+                <div class="skill-progress-bg">
+                  <div class="skill-progress-fill" style="width: 85%"></div>
+                </div>
+              </li>
+
+              <li class="skills-item">
+                <div class="title-wrapper">
+                  <h5 class="h5">communication</h5>
                   <data value="90">90%</data>
                 </div>
 
                 <div class="skill-progress-bg">
                   <div class="skill-progress-fill" style="width: 90%"></div>
-                </div>
-              </li>
-
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">WordPress</h5>
-                  <data value="50">50%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 50%"></div>
                 </div>
               </li>
             </ul>
@@ -807,7 +835,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://codecanyon.net/item/onest-academy-learning-management-system-web-application/45779709">
+                <a href="https://onesttech.com/products/onest-lms-online-learning-management-system-web-application">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
@@ -825,9 +853,9 @@
               <li
                 class="project-item active"
                 data-filter-item
-                data-category="mobile application"
+                data-category="web application"
               >
-                <a href="https://codecanyon.net/item/one-stop-crm-customer-relation-management-system/45217456" target="_blank">
+                <a href="https://onesttech.com/products/onest-crm-customer-relation-management-system" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-crm-customer-relation-management-system.avif"
@@ -847,7 +875,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onest-crm-multiple-platform/42321418" target="_blank">
+                <a href="https://onesttech.com/products/onest-crm-multiple-platform-crm-mobile-application" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-crm-multiple-platform-crm-mobile-application.avif"
@@ -867,7 +895,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onest-video-and-chat-flutter-application/40189650" target="_blank">
+                <a href="https://onesttech.com/products/chat-calling-live-social-media-iosandroid-application" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -888,7 +916,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onest-delivery-ui-kit/40036140" target="_blank">
+                <a href="https://onesttech.com/products/flutter-delivery-man-ui-kit" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -909,7 +937,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onest-moving-billboard-flutter-and-web-application/39928777" target="_blank">
+                <a href="https://onesttech.com/products/reviews-for-branding-advertising-moving-billboard-flutter-and-web-application" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -930,7 +958,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/hrm-qr-attendance/39287393" target="_blank">
+                <a href="https://onesttech.com/products/hrm-qr-attendance" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -950,7 +978,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onex-club-multipurpose-flutter-app/39029286" target="_blank">
+                <a href="https://onesttech.com/products/onex-club-multi-purpose-flutter-app" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -969,7 +997,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/flutter-news-magazine-app-ui-template/38910638" target="_blank">
+                <a href="https://onesttech.com/products/flutter-news-magazine-app-ui-template" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1008,7 +1036,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://codecanyon.net/item/onest-gro-ecommerce-complete-ecommerce-mobile-app-web-seller-and-admin-panel/38482403" target="_blank">
+                <a href="https://onesttech.com/products/multipurpose-and-multivendor-ecommerce-app-web-admin-panel-flutter-react-next-laravel" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1028,7 +1056,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://codecanyon.net/item/onest-pharma-ui-kit/38350679" target="_blank">
+                <a href="https://onesttech.com/products/multi-vendor-pharmacy-ecommerce-app-ui-kit-with-google-map-complete-address" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1047,26 +1075,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://codecanyon.net/item/honest-hrm/38089948" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-hrm-human-resource-management-system=app-and-website.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">HRM Web & APP</h3>
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/party-time-organize-events-event-booking-event-create-buy-tickets-android-ios-application" target="_blank"> 
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/party-time-organize-events-event-booking-event-create-buy-tickets-android-ios-application.avif"
@@ -1075,7 +1084,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">Party time </h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1085,7 +1094,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/flutter-smart-food-menu-android-ios-web-desktop" target="_blank"> 
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif"
@@ -1094,7 +1103,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">food menu Web & Mobile</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1102,9 +1111,9 @@
               <li
                 class="project-item active"
                 data-filter-item
-                data-category="web application"
+                data-category="mobile application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/queue-management-system-flutter-v310-android-ios-flutter-web" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1114,9 +1123,9 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">Queue Management System</h3>
 
-                  <p class="project-category">web application</p>
+                  <p class="project-category">mobile application</p>
                 </a>
               </li>
               <li
@@ -1133,7 +1142,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">ecommerce</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1141,9 +1150,9 @@
               <li
                 class="project-item active"
                 data-filter-item
-                data-category="web application"
+                data-category="mobile application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/onest-ecommerce-seller-app-android-ios" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1153,9 +1162,9 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">Seller APP</h3>
 
-                  <p class="project-category">web application</p>
+                  <p class="project-category">mobile application</p>
                 </a>
               </li>
               <li
@@ -1163,7 +1172,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/tailor-all-in-one-app-for-tailor-and-customer-management" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1173,7 +1182,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">tailor web & mobile</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1183,7 +1192,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/school-inspection-report-flutter-application" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1193,7 +1202,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">school-inspection  web & app</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1203,7 +1212,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/property-management-apartment-rent-collection-tenant-and-invoice-bill" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1213,7 +1222,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">Property Management web & app</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1221,9 +1230,9 @@
               <li
                 class="project-item active"
                 data-filter-item
-                data-category="web application"
+                data-category="mobile application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/offline-music-app-online-music-streaming-podcast" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1233,9 +1242,9 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">music-app</h3>
 
-                  <p class="project-category">web application</p>
+                  <p class="project-category">mobile application</p>
                 </a>
               </li>
               <li
@@ -1243,7 +1252,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/complete-multi-vendor-ecommerce-mobile-app-web-seller-and-admin-panel" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1253,7 +1262,7 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">multi-vendor</h3>
 
                   <p class="project-category">web application</p>
                 </a>
@@ -1263,7 +1272,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://onesttech.com/products/complete-multi-vendor-ecommerce-mobile-app-web-seller-and-admin-panel" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1273,11 +1282,34 @@
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">multi vendor ecommerce</h3>
 
                   <p class="project-category">web application</p>
                 </a>
               </li>
+              <li
+                class="project-item active"
+                data-filter-item
+                data-category="web application"
+              >
+                <a href="https://onesttech.com/products/onest-ultra-11-responsive-login-and-registration-form" target="_blank"> 
+                  <figure class="project-img">
+
+                    <img
+                      src="https://onesttech.com/frontend/assets/images/product/onest-ultra-11-responsive-login-and-registration-form.avif"
+                      alt="arrival"
+                      loading="lazy"
+                    />
+                  </figure>
+
+                  <h3 class="project-title">Login and Registration Form</h3>
+
+                  <p class="project-category">web application</p>
+                </a>
+              </li>
+
+
+              <!-- Figma -->
               <li
                 class="project-item active"
                 data-filter-item
@@ -1287,17 +1319,58 @@
                   <figure class="project-img">
 
                     <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-ultra-11-responsive-login-and-registration-form.avif"
+                      src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
                       alt="arrival"
                       loading="lazy"
                     />
                   </figure>
 
-                  <h3 class="project-title">Arrival</h3>
+                  <h3 class="project-title">Ui Desing one</h3>
 
-                  <p class="project-category">web application</p>
+                  <p class="project-category">Figma Design</p>
                 </a>
               </li>
+              <li
+              class="project-item active"
+              data-filter-item
+              data-category="ui-ux design"
+            >
+              <a href="#" target="_blank"> 
+                <figure class="project-img">
+
+                  <img
+                    src="https://www.almondsolutions.com/images/blog-ui-ux-150223.jpg"
+                    alt="arrival"
+                    loading="lazy"
+                  />
+                </figure>
+
+                <h3 class="project-title">Ui Desing Three</h3>
+
+                <p class="project-category">Figma Design</p>
+              </a>
+            </li>
+              <li
+                class="project-item active"
+                data-filter-item
+                data-category="ui-ux design"
+              >
+                <a href="#" target="_blank"> 
+                  <figure class="project-img">
+
+                    <img
+                      src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/10/000-Web-UI-Design.png"
+                      alt="arrival"
+                      loading="lazy"
+                    />
+                  </figure>
+
+                  <h3 class="project-title">Ui Desing Two</h3>
+
+                  <p class="project-category">Figma Design</p>
+                </a>
+              </li>
+
             </ul>
           </section>
         </article>
@@ -1312,7 +1385,8 @@
           </header>
 
           <section class="blog-posts">
-            <ul class="blog-posts-list">
+            <ul class="blog-posts-list" id="blogList">
+
               <li class="blog-post-item">
                 <a href="https://medium.com/@babu.cse46/functional-programming-vs-object-oriented-programming-oop-bf0ef12adb1b"  target="_blank">
                   <figure class="blog-banner-box">
@@ -1478,5 +1552,80 @@
   
     <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
+
+    <script>
+    // Define the URL of the JSON file
+    const jsonUrl = 'blog.json';
+
+    // Select the ul element where you want to append the data
+    const ul = document.getElementById('blogList');
+
+    // Fetch the JSON data
+    fetch(jsonUrl)
+      .then(response => response.json())
+      .then(data => {
+        // Loop through the JSON data and create list items
+        data.forEach(item => {
+          const li = document.createElement('li');
+          li.classList.add('blog-post-item');
+
+          const a = document.createElement('a');
+          a.href = item.url;
+          a.target = '_blank';
+
+          const figure = document.createElement('figure');
+          figure.classList.add('blog-banner-box');
+
+          const img = document.createElement('img');
+          img.src = item.image;
+          img.alt = item.imageAlt;
+          img.loading = 'lazy';
+
+          figure.appendChild(img);
+
+          const content = document.createElement('div');
+          content.classList.add('blog-content');
+
+          const meta = document.createElement('div');
+          meta.classList.add('blog-meta');
+
+          const category = document.createElement('p');
+          category.classList.add('blog-category');
+          category.textContent = item.category;
+
+          const dot = document.createElement('span');
+          dot.classList.add('dot');
+
+          const time = document.createElement('time');
+          time.setAttribute('datetime', item.date);
+          time.textContent = item.date;
+
+          meta.appendChild(category);
+          meta.appendChild(dot);
+          meta.appendChild(time);
+
+          const title = document.createElement('h3');
+          title.classList.add('h3', 'blog-item-title');
+          title.textContent = item.title;
+
+          const text = document.createElement('p');
+          text.classList.add('blog-text');
+          text.textContent = item.description;
+
+          content.appendChild(meta);
+          content.appendChild(title);
+          content.appendChild(text);
+
+          a.appendChild(figure);
+          a.appendChild(content);
+
+          li.appendChild(a);
+          ul.appendChild(li);
+        });
+      })
+      .catch(error => {
+        console.error('Error fetching JSON:', error);
+      });
+    </script>
   </body>
 </html>

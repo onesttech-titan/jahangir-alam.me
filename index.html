@@ -20,6 +20,9 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
   <link rel="stylesheet" href="./assets/css/style.css" />
 
   </head>
@@ -1315,20 +1318,40 @@
                 data-filter-item
                 data-category="ui-ux design"
               >
-                <a href="#" target="_blank"> 
-                  <figure class="project-img">
 
-                    <img
-                      src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
+                <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"> 
+                    <figure class="project-img">
+                      <img
+                        src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
+                        alt="arrival"
+                        loading="lazy"
+                      />
+                    </figure>
+                    <h3 class="project-title">Ui Desing one</h3>
+                    <p class="project-category">Figma Design</p>
+                </button>
 
-                  <h3 class="project-title">Ui Desing one</h3>
+                                  
+                  <!-- Modal -->
+                  <div class="modal fade modal-fullscreen" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                          ...
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                          <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
-                  <p class="project-category">Figma Design</p>
-                </a>
+
               </li>
               <li
               class="project-item active"
@@ -1549,7 +1572,8 @@
     <!--
     - ionicon link
   -->
-  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
     <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
 

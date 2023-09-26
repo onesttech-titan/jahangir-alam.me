@@ -553,9 +553,26 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-3);
   line-height: 1.6;
+  
 }
 
+.service-item-text2 {
+  color:var(--light-gray) !important;
+  font-size: 12px !important;
+  text-align: left;
+}
+.pl-0 {
+	pl-0: 0 !important;
+}
 
+.service-item2{
+  padding: 21px !important;
+  padding-bottom: 10px !important;
+  text-align: left;
+}
+.service-item2 .service-content-box {
+	text-align: left;
+}
 /**
  * #testimonials 
  */

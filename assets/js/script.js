@@ -2,6 +2,22 @@
 
 
 
+
+  // $(window).on('load', function() {
+  //     $('#one').modal('show');
+  // });
+
+
+
+  // Loader 
+  // $(window).on('load',function(){
+  //   setTimeout(function(){ // allowing 3 secs to fade out loader
+  //   $('#one').fadeOut('slow');
+  //   },300);
+  // });
+
+  
+
 // element toggle function
 const elementToggleFunc = function (elem) { elem.classList.toggle("active"); }
 

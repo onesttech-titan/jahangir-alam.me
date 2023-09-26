@@ -2092,3 +2092,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 	line-height: 1.6;
 	font: inherit;
 }
+
+.testimonials-modal .modal-content {
+	background-color: unset;
+}

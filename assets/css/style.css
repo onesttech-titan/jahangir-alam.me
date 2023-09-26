@@ -1843,13 +1843,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   body::-webkit-scrollbar-button { height: 60px; }
 
 
-
-  /**
-   * REUSED STYLE
-   */
-
-  /* .sidebar, article { width: auto; } */
-
   article { min-height: 100%; }
 
 
@@ -1866,7 +1859,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     align-items: stretch;
     gap: 25px;
   }
-
   .main-content {
     min-width: 75%;
     width: 75%;
@@ -1887,45 +1879,28 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 0;
     z-index: 1;
   }
-
   .sidebar-info { flex-direction: column; }
-
   .avatar-box img { width: 150px; }
-
   .info-content .name {
     white-space: nowrap;
     text-align: center;
   }
-
   .info-content .title { margin: auto; }
-
   .info_more-btn { display: none; }
-
   .sidebar-info_more {
     opacity: 1;
     visibility: visible;
   }
-
   .contacts-list { grid-template-columns: 1fr; }
-
-  /* .contact-info :is(.contact-link) {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  } */
-
   .contact-info :is(.contact-link, time, address) {
     --fs-7: 14px;
     font-weight: var(--fw-300);
   }
-
   .separator:last-of-type {
     margin: 15px 0;
     opacity: 0;
   }
-
   .social-list { justify-content: center; }
-
 
 
   /**
@@ -1935,7 +1910,6 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
-
 
 
 /* ------------------------- New styles ----------------------------- */

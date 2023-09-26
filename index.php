@@ -20,6 +20,9 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
   <link rel="stylesheet" href="./assets/css/style.css" />
 
   </head>
@@ -82,7 +85,7 @@
                 <p class="contact-title">Phone</p>
 
                 <a href="tel:+8801810022230" class="contact-link"
-                  >+88 01810022230</a
+                  >+8801810022230</a
                 >
               </div>
             </li>
@@ -582,31 +585,31 @@
 
                 <span>Class of 2..</span>
 
-                <p class="timeline-text">
+                <!-- <p class="timeline-text">
                   Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
                   delenit atque corrupti, quos dolores et quas molestias
                   exceptur.
-                </p>
+                </p> -->
               </li>
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">
                   Stamford University Bangladesh
                 </h4>
                 <span>Class of 2..</span>
-                <p class="timeline-text">
+                <!-- <p class="timeline-text">
                   Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
                   delenit atque corrupti, quos dolores et quas molestias
                   exceptur.
-                </p>
+                </p> -->
               </li>
 
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Agricultural University College</h4>
                 <span>Class of 2009</span>
-                <p class="timeline-text">
+                <!-- <p class="timeline-text">
                   Ratione voluptatem sequi nesciunt, facere quisquams facere
                   menda ossimus, omnis voluptas assumenda est omnis..
-                </p>
+                </p> -->
               </li>
 
               <li class="timeline-item">
@@ -614,11 +617,11 @@
 
                 <span>Class of 2007</span>
 
-                <p class="timeline-text">
+                <!-- <p class="timeline-text">
                   Duis aute irure dolor in reprehenderit in voluptate, quila
                   voluptas mag odit aut fugit, sed consequuntur magni dolores
                   eos.
-                </p>
+                </p> -->
               </li>
             </ol>
           </section>
@@ -797,7 +800,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/onest-schooled-school-management-system-laravel-script" target="_blank">
+                <a href="https://school.onesttech.com/login" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-schooled-school-management-system-laravel-script.avif"
@@ -809,13 +812,30 @@
                   <p class="project-category">web application</p>
                 </a>
               </li>
+              <li
+                class="project-item active"
+                data-filter-item
+                data-category="web application"
+              >
+                <a href="https://hrm.onesttech.com/sign-in" target="_blank">
+                  <figure class="project-img">
+                    <img
+                      src="https://codecanyon.img.customer.envatousercontent.com/files/467498319/banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=f63ed7ac17516da4b922d3c512c0f63e"
+                      alt="finance"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 class="project-title">HRM</h3>
+                  <p class="project-category">web application</p>
+                </a>
+              </li>
 
               <li
                 class="project-item active"
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/onest-lms-online-learning-management-system-mobile-app" target="_blank">
+                <a href="https://drive.google.com/file/d/1GOXXpkjsaM9bjVZvaoRJc0AvlD0puwhZ/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-mobile-app.avif"
@@ -835,7 +855,8 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/onest-lms-online-learning-management-system-web-application">
+                <a href="https://lms.onesttech.com/admin/login
+                " target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
@@ -855,7 +876,8 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/onest-crm-customer-relation-management-system" target="_blank">
+                <a href="https://crmv1.onestweb.com/login
+                " target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-crm-customer-relation-management-system.avif"
@@ -875,7 +897,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/onest-crm-multiple-platform-crm-mobile-application" target="_blank">
+                <a href="https://drive.google.com/file/d/1Y8dYOVlGA6cBvdGXIl-qV4FQ281yAeS6/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-crm-multiple-platform-crm-mobile-application.avif"
@@ -895,7 +917,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/chat-calling-live-social-media-iosandroid-application" target="_blank">
+                <a href="https://drive.google.com/file/d/1E8Zgxot44Ra0v7n448pGdUnhQSbJEdfe/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -916,7 +938,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/flutter-delivery-man-ui-kit" target="_blank">
+                <a href="https://drive.google.com/file/d/15_lwHuYgRRwQ8Cy72_fQF5MqOtOe_xRN/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -937,7 +959,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/reviews-for-branding-advertising-moving-billboard-flutter-and-web-application" target="_blank">
+                <a href="https://drive.google.com/file/d/1btv2uGNraS4U4TqEf9cNS92rz6uaJ1gX/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -958,7 +980,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/hrm-qr-attendance" target="_blank">
+                <a href="https://drive.google.com/file/d/1DH37Jv1xwWCOEI7aPQB3oujAviRi3uH4/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -978,7 +1000,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/onex-club-multi-purpose-flutter-app" target="_blank">
+                <a href="https://drive.google.com/file/d/14SyZpfdNXLwebbCWUM57h_GJcKYKNkuo/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -997,7 +1019,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/flutter-news-magazine-app-ui-template" target="_blank">
+                <a href="https://drive.google.com/file/d/1Vw2Se_HcX6l3OgvQDIf3mdUVdG2D0-NV/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1016,7 +1038,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://codecanyon.net/item/onest-gro-ecommerce-complete-ecommerce-mobile-app-web-seller-and-admin-panel/38482403" target="_blank">
+                <a href="https://grocery.onesttech.com" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1036,7 +1058,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/multipurpose-and-multivendor-ecommerce-app-web-admin-panel-flutter-react-next-laravel" target="_blank">
+                <a href="https://drive.google.com/file/d/1b1srfsNv1zuAuomNk-1J1dlRfMNHEfI3/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1054,9 +1076,9 @@
               <li
                 class="project-item active"
                 data-filter-item
-                data-category="web application"
+                data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/multi-vendor-pharmacy-ecommerce-app-ui-kit-with-google-map-complete-address" target="_blank">
+                <a href="https://drive.google.com/file/d/1DiQ38POvS4Wn9q-5HI8TFcJCx3vDNA7j/view?usp=drive_link" target="_blank">
                   <figure class="project-img">
 
                     <img
@@ -1067,7 +1089,7 @@
                   </figure>
 
                   <h3 class="project-title">pharmacy</h3>
-                  <p class="project-category">web application</p>
+                  <p class="project-category">mobile application</p>
                 </a>
               </li>
               <li
@@ -1075,7 +1097,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/party-time-organize-events-event-booking-event-create-buy-tickets-android-ios-application" target="_blank"> 
+                <a href="https://drive.google.com/file/d/1UmUw1YyfVmSOBGeNvHog5r5DFLRCj6Io/view?usp=drive_link" target="_blank"> 
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/party-time-organize-events-event-booking-event-create-buy-tickets-android-ios-application.avif"
@@ -1094,7 +1116,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/flutter-smart-food-menu-android-ios-web-desktop" target="_blank"> 
+                <a href="https://smart-food-customer.vercel.app/#/" target="_blank"> 
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif"
@@ -1113,7 +1135,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/queue-management-system-flutter-v310-android-ios-flutter-web" target="_blank"> 
+                <a href="https://onqueuewebadmin.vercel.app/#/" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1133,7 +1155,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="#" target="_blank"> 
+                <a href="https://ecom.onesttech.com/" target="_blank"> 
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif"
@@ -1152,7 +1174,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/onest-ecommerce-seller-app-android-ios" target="_blank"> 
+                <a href="https://drive.google.com/file/d/1PVGxPQmwKBQSDOVLEQCRx2vKuw1Gn58o/view" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1172,7 +1194,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/tailor-all-in-one-app-for-tailor-and-customer-management" target="_blank"> 
+                <a href="https://drive.google.com/file/d/1KhrYFUpMGo_tpR0QiPOxq5-DH0uC5IOZ/view?usp=drive_link" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1192,7 +1214,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/school-inspection-report-flutter-application" target="_blank"> 
+                <a href="https://drive.google.com/file/d/1l6_Po6DP5GZxu6C3ht4J_grheXwS5ju9/view" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1212,7 +1234,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/property-management-apartment-rent-collection-tenant-and-invoice-bill" target="_blank"> 
+                <a href="https://landlord.onestweb.com/" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1232,7 +1254,7 @@
                 data-filter-item
                 data-category="mobile application"
               >
-                <a href="https://onesttech.com/products/offline-music-app-online-music-streaming-podcast" target="_blank"> 
+                <a href="https://www.dhakdol.com" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1252,7 +1274,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/complete-multi-vendor-ecommerce-mobile-app-web-seller-and-admin-panel" target="_blank"> 
+                <a href="https://ecom.onesttech.com" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1272,27 +1294,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://onesttech.com/products/complete-multi-vendor-ecommerce-mobile-app-web-seller-and-admin-panel" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-ultra-11-responsive-login-and-registration-form.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">multi vendor ecommerce</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://onesttech.com/products/onest-ultra-11-responsive-login-and-registration-form" target="_blank"> 
+                <a href="https://login.onesttech.com" target="_blank"> 
                   <figure class="project-img">
 
                     <img
@@ -1315,60 +1317,41 @@
                 data-filter-item
                 data-category="ui-ux design"
               >
-                <a href="#" target="_blank"> 
-                  <figure class="project-img">
 
-                    <img
-                      src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
+                <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"> 
+                    <figure class="project-img">
+                      <img
+                        src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
+                        alt="arrival"
+                        loading="lazy"
+                      />
+                    </figure>
+                    <h3 class="project-title">UI/UX Desing LMS</h3>
+                    <p class="project-category">Figma Design</p>
+                </button>
 
-                  <h3 class="project-title">Ui Desing one</h3>
+                                  
+                  <!-- Modal -->
+                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
 
-                  <p class="project-category">Figma Design</p>
-                </a>
-              </li>
-              <li
-              class="project-item active"
-              data-filter-item
-              data-category="ui-ux design"
-            >
-              <a href="#" target="_blank"> 
-                <figure class="project-img">
+                          <img src="https://lms.onestweb.com/assets/images/landing/home1.png" alt="" class="w-100">
 
-                  <img
-                    src="https://www.almondsolutions.com/images/blog-ui-ux-150223.jpg"
-                    alt="arrival"
-                    loading="lazy"
-                  />
-                </figure>
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
 
-                <h3 class="project-title">Ui Desing Three</h3>
 
-                <p class="project-category">Figma Design</p>
-              </a>
-            </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="ui-ux design"
-              >
-                <a href="#" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://www.elegantthemes.com/blog/wp-content/uploads/2018/10/000-Web-UI-Design.png"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Ui Desing Two</h3>
-
-                  <p class="project-category">Figma Design</p>
-                </a>
               </li>
 
             </ul>
@@ -1549,7 +1532,8 @@
     <!--
     - ionicon link
   -->
-  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+
     <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
 

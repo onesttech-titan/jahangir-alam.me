@@ -568,63 +568,120 @@
             <h2 class="h2 article-title">Resume</h2>
           </header>
 
-          <section class="timeline">
-            <div class="title-wrapper">
-              <div class="icon-box">
-                <ion-icon name="book-outline"></ion-icon>
-              </div>
+        <!-- my Skill -->
+          <section class="skill mb-3">
+            <h3 class="h3 skills-title">My skills</h3>
 
-              <h3 class="h3">Education</h3>
-            </div>
+            <!-- <div class="skills-list content-card">
 
-            <ol class="timeline-list">
-              <li class="timeline-item">
-                <h4 class="h4 timeline-item-title">
-                  American international university
-                </h4>
+            </div> -->
 
-                <span>Class of 2..</span>
+            <ul class="service-list px-0">
 
-                <!-- <p class="timeline-text">
-                  Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
-                  delenit atque corrupti, quos dolores et quas molestias
-                  exceptur.
-                </p> -->
-              </li>
-              <li class="timeline-item">
-                <h4 class="h4 timeline-item-title">
-                  Stamford University Bangladesh
-                </h4>
-                <span>Class of 2..</span>
-                <!-- <p class="timeline-text">
-                  Nemo enims ipsam voluptatem, blanditiis praesentium voluptum
-                  delenit atque corrupti, quos dolores et quas molestias
-                  exceptur.
-                </p> -->
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Technical Skills:</h4>
+
+                  <pre class="service-item-text service-item-text2 mb-0">
+- Full-Stack Development
+- Cloud Computing (AWS, Azure, GCP)
+- DevOps and CI/CD
+- Database Management
+- Cybersecurity and Data Privacy
+- Mobile and Web Application Development
+- IoT and AI Integration
+                  </pre>
+                </div>
               </li>
 
-              <li class="timeline-item">
-                <h4 class="h4 timeline-item-title">Agricultural University College</h4>
-                <span>Class of 2009</span>
-                <!-- <p class="timeline-text">
-                  Ratione voluptatem sequi nesciunt, facere quisquams facere
-                  menda ossimus, omnis voluptas assumenda est omnis..
-                </p> -->
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Leadership and Management:</h4>
+
+                  <pre class="service-item-text service-item-text2 mb-0">
+- Team Building and Development
+- Agile and Scrum Methodologies
+- Project Management
+- Budgeting and Resource Allocation
+- Stakeholder Communication
+- Vendor and Partner Collaboration
+- Strategic Planning
+                  </pre>
+                </div>
               </li>
 
-              <li class="timeline-item">
-                <h4 class="h4 timeline-item-title"> Mukul Niketon High School </h4>
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Innovation and Strategy: </h4>
 
-                <span>Class of 2007</span>
-
-                <!-- <p class="timeline-text">
-                  Duis aute irure dolor in reprehenderit in voluptate, quila
-                  voluptas mag odit aut fugit, sed consequuntur magni dolores
-                  eos.
-                </p> -->
+<pre class="service-item-text service-item-text2 mb-0">
+-  Technology Roadmap Development
+-  Market Analysis and Trends Assessment
+-  Product Lifecycle Management
+-  Intellectual Property Strategy
+-  Risk Assessment and Mitigation
+-  Competitive Analysis
+</pre>
+                </div>
               </li>
-            </ol>
+
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
+
+<pre class="service-item-text service-item-text2 mb-0">
+-  Complex Problem Analysis
+-  Critical Thinking and Decision-Making
+-  Crisis Management
+-  Conflict Resolution
+-  Quality Assurance and Testing
+</pre>
+                </div>
+              </li>
+
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
+
+<pre class="service-item-text service-item-text2 mb-0">
+-  Complex Problem Analysis
+-  Critical Thinking and Decision-Making
+-  Crisis Management
+-  Conflict Resolution
+-  Quality Assurance and Testing
+</pre>
+                </div>
+              </li>
+
+              <!-- Single -->
+              <li class="service-item service-item2">
+                <div class="service-content-box">
+                  <h4 class="h4 service-item-title">Communication and Collaboration: </h4>
+
+<pre class="service-item-text service-item-text2 mb-0">
+-  Effective Communication
+-  Cross-Functional Collaboration
+-  Client Relationship Management
+-  Presentation and Public Speaking
+-  Technical Documentation
+</pre>
+                </div>
+              </li>
+
+
+
+            </ul>
+
+
           </section>
+
+
+
 
           <section class="timeline">
             <div class="title-wrapper">
@@ -638,9 +695,16 @@
             <ol class="timeline-list">
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Chief information officer</h4>
-                <p>Onesttech</p>
-                <span>5 years 4 months</span>
-                <p class="timeline-text"> Banani, Dhaka, Bangladesh </p>
+                <p>Onesttech LLC</p>
+                <span>May 2011 to Current  (5 years 4 months )</span>
+                <p class="timeline-text mb-0">Banani, Dhaka, Bangladesh</p>
+                <pre>
+ 
+<strong>Responsibilities:</strong>
+-Strategic Technology Planning
+-Information Security and Data Governance
+-Team Leadership and Team Management and  Development
+                </pre>
               </li>
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Chief Technology officer</h4>
@@ -665,7 +729,52 @@
 
           </section>
 
-          <section class="skill">
+          <section class="timeline">
+            <div class="title-wrapper">
+              <div class="icon-box">
+                <ion-icon name="book-outline"></ion-icon>
+              </div>
+
+              <h3 class="h3">Education</h3>
+            </div>
+
+            <ol class="timeline-list">
+              <li class="timeline-item">
+                <h4 class="h4 timeline-item-title">
+                  Cisco Certified Network Associate (CCNA) Certification
+                </h4>
+                <span>American International University</span>
+                <p class="timeline-text">Completed in 2016 </p>
+              </li>
+
+              <li class="timeline-item">
+                <h4 class="h4 timeline-item-title">
+                  Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)
+                </h4>
+                <span>Stamford University Bangladesh</span>
+                <p class="timeline-text">Graduated in 2014 </p>
+              </li>
+
+              <li class="timeline-item">
+                <h4 class="h4 timeline-item-title">
+                  Higher Secondary Certificate (H.S.C)
+                </h4>
+                <span>Agricultural University College</span>
+                <p class="timeline-text">Completed in 2009</p>
+              </li>
+
+              <li class="timeline-item">
+                <h4 class="h4 timeline-item-title">
+                  Secondary School Certificate (S.S.C)
+                </h4>
+                <span>Mukul Niketon High School</span>
+                <p class="timeline-text">Graduated in 2007</p>
+              </li>
+
+
+            </ol>
+          </section>
+          <!-- <section class="skill">
             <h3 class="h3 skills-title">My skills</h3>
 
             <ul class="skills-list content-card">
@@ -733,7 +842,10 @@
                 </div>
               </li>
             </ul>
-          </section>
+            <div class="skills-list content-card">
+
+            </div>
+          </section> -->
         </article>
 
         <!--
@@ -791,10 +903,14 @@
                 <li class="select-item">
                   <button data-select-item>web application</button>
                 </li>
+
+                <li class="select-item">
+                  <button data-select-item>ui-ux design</button>
+                </li>
               </ul>
             </div>
 
-            <ul class="project-list">
+            <ul class="project-list px-0">
               <li
                 class="project-item active"
                 data-filter-item
@@ -855,8 +971,7 @@
                 data-filter-item
                 data-category="web application"
               >
-                <a href="https://lms.onesttech.com/admin/login
-                " target="_blank">
+                <a href="https://lms.onesttech.com/sign-in" target="_blank">
                   <figure class="project-img">
                     <img
                       src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
@@ -1312,31 +1427,25 @@
 
 
               <!-- Figma -->
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="ui-ux design"
-              >
-
-                <button type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"> 
-                    <figure class="project-img">
-                      <img
-                        src="https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/1279662/figma-design-tool-e09b94850458e37b90442beb2a9192cc.png"
-                        alt="arrival"
-                        loading="lazy"
-                      />
-                    </figure>
-                    <h3 class="project-title">UI/UX Desing LMS</h3>
-                    <p class="project-category">Figma Design</p>
-                </button>
-
-                                  
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#one"> 
+                      <figure class="project-img">
+                        <img
+                          src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">LMS - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
                   <!-- Modal -->
-                  <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                  <div class="modal fade" id="one" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                     <div class="modal-dialog modal-fullscreen">
                       <div class="modal-content">
                         <div class="modal-header">
-                          <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
                           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
@@ -1350,9 +1459,289 @@
                       </div>
                     </div>
                   </div>
-
-
               </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#two"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Adgari.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Adgari - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="two" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Adgari.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#three"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-HRM.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">HRM - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="three" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/HRM.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#four"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-CRM.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">CRM - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="four" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/CRM.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#five"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Landlord.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Landlord - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="five" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Landlord.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#six"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Schooled.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Schooled - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="six" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Schooled.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#seven"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Music.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Music - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="seven" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Music.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#eight"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Fundrising.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Fundrising - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="eight" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Fundrising.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+              
+              <!-- Figma -->
+              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
+                  <button type="button" data-bs-toggle="modal" data-bs-target="#nine"> 
+                      <figure class="project-img">
+                        <img
+                          src="assets/images/figma/Thumbnail-Blood Donation.png"
+                          alt="arrival"
+                          loading="lazy"
+                        />
+                      </figure>
+                      <h3 class="project-title">Blood-Donation - UI/UX Desing</h3>
+                      <p class="project-category">Figma Design</p>
+                  </button>
+          
+                  <!-- Modal -->
+                  <div class="modal fade" id="nine" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                    <div class="modal-dialog modal-fullscreen">
+                      <div class="modal-content">
+                        <div class="modal-header">
+                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                          <img src="assets/images/figma/Blood-Donation.png" alt="" class="w-100">
+
+                        </div>
+                        <div class="modal-footer">
+                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+              </li>
+
+              
 
             </ul>
           </section>
@@ -1532,8 +1921,7 @@
     <!--
     - ionicon link
   -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
     <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
 

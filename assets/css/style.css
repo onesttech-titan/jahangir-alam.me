@@ -938,12 +938,19 @@ main {
   gap: 30px;
   margin-bottom: 10px;
 }
+.contacts-list {
+	padding-left: 0;
+}
+
+.w-100{
+  width: 100%;
+}
 
 .project-item { display: none; }
 
 .project-item.active {
   display: block;
-  animation: scaleUp 0.25s ease forwards;
+  /* animation: scaleUp 0.25s ease forwards; */
 }
 
 @keyframes scaleUp {
@@ -1828,7 +1835,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * REUSED STYLE
    */
 
-  .sidebar, article { width: auto; }
+  /* .sidebar, article { width: auto; } */
 
   article { min-height: 100%; }
 
@@ -1865,7 +1872,6 @@ textarea.form-input::-webkit-resizer { display: none; }
     max-height: max-content;
     height: 100%;
     margin-bottom: 0;
-    padding-top: 60px;
     z-index: 1;
   }
 

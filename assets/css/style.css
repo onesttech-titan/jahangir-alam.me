@@ -561,13 +561,9 @@ main {
   font-size: 12px !important;
   text-align: left;
 }
-.pl-0 {
-	pl-0: 0 !important;
-}
 
 .service-item2{
   padding: 21px !important;
-  padding-bottom: 10px !important;
   text-align: left;
 }
 .service-item2 .service-content-box {
@@ -1924,3 +1920,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 
+.doted {
+	color: var(--orange-yellow-crayola) !important;
+	display: inline-block;
+}

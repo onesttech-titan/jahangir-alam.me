@@ -7,10 +7,6 @@
  * copyright 2022 @codewithsadee
  */
 
-
-
-
-
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -546,6 +542,7 @@ main {
   justify-content: center;
   align-items: center;
   padding: 0 10px;
+  margin-bottom:0 ;
 }
 
 .navbar-link {
@@ -2014,6 +2011,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 	bottom: 123px;
 	position: fixed;
 	right: 12px;
+  z-index: 99;
 }
 #contact-whatsApp img {
 	max-width: 70px;
@@ -2024,9 +2022,9 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .active.footer {
-	height: 50px !important;
-	min-height: 50px;
-	padding: 13px 20px;
+	height: 60px !important;
+	min-height: 60px;
+	padding: 18px 20px;
 	border-radius: 12px;
 	margin: 20px 0px;
 	text-align: center;
@@ -2035,6 +2033,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 	display: inline-block;
   margin-bottom: 0;
 }
+.contact-form {
+	background: hsla(240, 1%, 17%, 0.75);
+	padding: 20px;
+	border-radius: 10px;
+}
+
 
 /* pluse */
 
@@ -2079,4 +2083,12 @@ textarea.form-input::-webkit-resizer { display: none; }
       -moz-box-shadow: 0 0 0 0 rgba(204,169,44, 0);
       box-shadow: 0 0 0 0 rgba(204,169,44, 0);
   }
+}
+/* End pluse */
+
+
+.about-text {
+	font-weight: var(--fw-500);
+	line-height: 1.6;
+	font: inherit;
 }

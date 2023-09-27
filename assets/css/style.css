@@ -400,10 +400,6 @@ main {
   gap: 15px;
 }
 
-.avatar-box {
-  background: var(--bg-gradient-onyx);
-  border-radius: 10px;
-}
 
 .info-content .name {
   color: var(--white-2);
@@ -1980,9 +1976,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 /* ------------------------- New styles ----------------------------- */
 
-.avatar-box{
-  overflow: hidden;
-}
 
 .has-scrollbar{
   scrollbar-width: thin;
@@ -2008,19 +2001,17 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 #contact-whatsApp {
-	bottom: 123px;
+	bottom: 43px;
 	position: fixed;
 	right: 12px;
-  z-index: 99;
+	z-index: 99;
 }
 #contact-whatsApp img {
 	max-width: 70px;
 }
-
 .position-relative{
   position: relative;
 }
-
 .active.footer {
 	height: 60px !important;
 	min-height: 60px;
@@ -2044,16 +2035,16 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .pulse {
 	display: block;
-	width: 10px;
-	height: 10px;
+	width: 15px;
+	height: 15px;
 	border-radius: 50%;
 	background: #28a619;
 	cursor: pointer;
 	box-shadow: 0 0 0 rgba(40, 166, 25, .6);
 	animation: pulse 2s infinite;
 	position: absolute;
-	right: -8px;
-	top: -7px;
+	right: 26px;
+	bottom: 3px;
 }
 .pulse:hover {
   animation: none;
@@ -2095,4 +2086,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .testimonials-modal .modal-content {
 	background-color: unset;
+}
+
+
+.avatar-box img {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
 }

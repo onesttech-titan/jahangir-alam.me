@@ -21,8 +21,6 @@
       rel="stylesheet"
     />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-
   <link rel="stylesheet" href="./assets/css/style.css" />
 
   </head>
@@ -46,7 +44,10 @@
           </figure>
 
           <div class="info-content">
-            <h1 class="name" title="Richard hanrick">Jahangir Alam</h1>
+            <h1 class="name position-relative" title="Richard hanrick">
+              Jahangir Alam
+              <span class="pulse"></span>
+            </h1>
 
             <p class="title">CIO, Onest Tech LLC</p>
           </div>
@@ -59,28 +60,28 @@
         </div>
 
         <div class="sidebar-info_more">
-          <div class="separator"></div>
+          <div class="mt-4"></div>
 
           <ul class="contacts-list">
+
+
             <li class="contact-item">
-              <!-- <div class="icon-box">
-                <ion-icon name="mail-outline"></ion-icon>
-              </div> -->
-
               <div class="contact-info">
-                <p class="contact-title">Email</p>
-
-                <a href="mailto:babu.cse46@gmail.com " class="contact-link"
-                  >babu.cse46@gmail.com
-                </a>
+                <p class="contact-title">Hours per week </p>
+                <p>More than 20 hrs/week</p>
               </div>
             </li>
 
             <li class="contact-item">
-              <!-- <div class="icon-box">
-                <ion-icon name="phone-portrait-outline"></ion-icon>
-              </div> -->
+              <div class="contact-info">
+                <p class="contact-title">Languages  </p>
+                <p >English: Fluent</p>
+              </div>
+            </li>
 
+            <div class="separator2"></div>
+
+            <li class="contact-item">
               <div class="contact-info">
                 <p class="contact-title">Phone</p>
 
@@ -339,17 +340,12 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                    Daniel lewis
+                  Abrar Sajed Rahman
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Richard was hired to create a corporate identity. We were
-                      very pleased with the work done. She has a lot of
-                      experience and is very concerned about the needs of
-                      client. Lorem ipsum dolor sit amet, ullamcous cididt
-                      consectetur adipiscing elit, seds do et eiusmod tempor
-                      incididunt ut laborels dolore magnarels alia.
+                      Mr. Jahangir is a professional when it comes to dictating the flow of things in order to get them arranged, organized and operating seamlessly. He is an astute individual and has sheer leadership prowess, which makes him a genuine leader no matter how adverse the situation maybe. 
                     </p>
                   </div>
                 </div>
@@ -370,17 +366,12 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                    Jessica miller
+                  Imran Touhid
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Richard was hired to create a corporate identity. We were
-                      very pleased with the work done. She has a lot of
-                      experience and is very concerned about the needs of
-                      client. Lorem ipsum dolor sit amet, ullamcous cididt
-                      consectetur adipiscing elit, seds do et eiusmod tempor
-                      incididunt ut laborels dolore magnarels alia.
+                      Working with Mr. Jahangir has been nothing short of an absolute pleasure. When it comes to business, he knows how to get things done fast and right. A dedicated professional like him makes business dealings much easier, as his extensive knowledge really sets him leagues above his competitors.
                     </p>
                   </div>
                 </div>
@@ -401,17 +392,12 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                    Emily evans
+                  Noushin Haidar - 
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Richard was hired to create a corporate identity. We were
-                      very pleased with the work done. She has a lot of
-                      experience and is very concerned about the needs of
-                      client. Lorem ipsum dolor sit amet, ullamcous cididt
-                      consectetur adipiscing elit, seds do et eiusmod tempor
-                      incididunt ut laborels dolore magnarels alia.
+                      Sir Jahangir is a fantastic influence. I have learned a lot from him and still do as he enlightens me with his solid real world understanding. His brilliance and determination is unmatched, as well as his distinctive personality which makes him a really fun person to be around of. 
                     </p>
                   </div>
                 </div>
@@ -432,17 +418,12 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                    Henry william
+                  Sam Williams - 
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Richard was hired to create a corporate identity. We were
-                      very pleased with the work done. She has a lot of
-                      experience and is very concerned about the needs of
-                      client. Lorem ipsum dolor sit amet, ullamcous cididt
-                      consectetur adipiscing elit, seds do et eiusmod tempor
-                      incididunt ut laborels dolore magnarels alia.
+                      Jahangir is a gem of a character when it comes to skilfullness in diversity. He is vastly experienced in a multitude of fields; a true professional. His hard working nature enables him to hone his craft, regardless of what it is that he sets his mind to. 
                     </p>
                   </div>
                 </div>
@@ -557,6 +538,10 @@
               </li>
             </ul>
           </section>
+
+         
+  
+
         </article>
 
         <!--
@@ -584,14 +569,14 @@
                   <h4 class="h4 service-item-title">Technical Skills:</h4>
 
                   <pre class="service-item-text service-item-text2 mb-0">
-- Full-Stack Development
-- Cloud Computing (AWS, Azure, GCP)
-- DevOps and CI/CD
-- Database Management
-- Cybersecurity and Data Privacy
-- Mobile and Web Application Development
-- IoT and AI Integration
-                  </pre>
+<span class="doted"> -  </span>Full-Stack Development
+<span class="doted"> -  </span>Cloud Computing (AWS, Azure, GCP)
+<span class="doted"> -  </span>DevOps and CI/CD
+<span class="doted"> -  </span>Database Management
+<span class="doted"> -  </span>Cybersecurity and Data Privacy
+<span class="doted"> -  </span>Mobile and Web Application Development
+<span class="doted"> -  </span>IoT and AI Integration
+</pre>
                 </div>
               </li>
 
@@ -601,14 +586,14 @@
                   <h4 class="h4 service-item-title">Leadership and Management:</h4>
 
                   <pre class="service-item-text service-item-text2 mb-0">
-- Team Building and Development
-- Agile and Scrum Methodologies
-- Project Management
-- Budgeting and Resource Allocation
-- Stakeholder Communication
-- Vendor and Partner Collaboration
-- Strategic Planning
-                  </pre>
+<span class="doted"> -  </span>Team Building and Development
+<span class="doted"> -  </span>Agile and Scrum Methodologies
+<span class="doted"> -  </span>Project Management
+<span class="doted"> -  </span>Budgeting and Resource Allocation
+<span class="doted"> -  </span>Stakeholder Communication
+<span class="doted"> -  </span>Vendor and Partner Collaboration
+<span class="doted"> -  </span>Strategic Planning
+</pre>
                 </div>
               </li>
 
@@ -618,12 +603,12 @@
                   <h4 class="h4 service-item-title">Innovation and Strategy: </h4>
 
 <pre class="service-item-text service-item-text2 mb-0">
--  Technology Roadmap Development
--  Market Analysis and Trends Assessment
--  Product Lifecycle Management
--  Intellectual Property Strategy
--  Risk Assessment and Mitigation
--  Competitive Analysis
+<span class="doted"> -  </span>Technology Roadmap Development
+<span class="doted"> -  </span>Market Analysis and Trends Assessment
+<span class="doted"> -  </span>Product Lifecycle Management
+<span class="doted"> -  </span>Intellectual Property Strategy
+<span class="doted"> -  </span>Risk Assessment and Mitigation
+<span class="doted"> -  </span>Competitive Analysis
 </pre>
                 </div>
               </li>
@@ -634,11 +619,11 @@
                   <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
 
 <pre class="service-item-text service-item-text2 mb-0">
--  Complex Problem Analysis
--  Critical Thinking and Decision-Making
--  Crisis Management
--  Conflict Resolution
--  Quality Assurance and Testing
+<span class="doted"> -  </span>Complex Problem Analysis
+<span class="doted"> -  </span>Critical Thinking and Decision-Making
+<span class="doted"> -  </span>Crisis Management
+<span class="doted"> -  </span>Conflict Resolution
+<span class="doted"> -  </span>Quality Assurance and Testing
 </pre>
                 </div>
               </li>
@@ -649,11 +634,11 @@
                   <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
 
 <pre class="service-item-text service-item-text2 mb-0">
--  Complex Problem Analysis
--  Critical Thinking and Decision-Making
--  Crisis Management
--  Conflict Resolution
--  Quality Assurance and Testing
+<span class="doted"> -  </span>Complex Problem Analysis
+<span class="doted"> -  </span>Critical Thinking and Decision-Making
+<span class="doted"> -  </span>Crisis Management
+<span class="doted"> -  </span>Conflict Resolution
+<span class="doted"> -  </span>Quality Assurance and Testing
 </pre>
                 </div>
               </li>
@@ -664,11 +649,11 @@
                   <h4 class="h4 service-item-title">Communication and Collaboration: </h4>
 
 <pre class="service-item-text service-item-text2 mb-0">
--  Effective Communication
--  Cross-Functional Collaboration
--  Client Relationship Management
--  Presentation and Public Speaking
--  Technical Documentation
+<span class="doted"> -  </span>Effective Communication
+<span class="doted"> -  </span>Cross-Functional Collaboration
+<span class="doted"> -  </span>Client Relationship Management
+<span class="doted"> -  </span>Presentation and Public Speaking
+<span class="doted"> -  </span>Technical Documentation
 </pre>
                 </div>
               </li>
@@ -700,10 +685,10 @@
                 <p class="timeline-text mb-0">Banani, Dhaka, Bangladesh</p>
                 <pre>
  
-<strong>Responsibilities:</strong>
--Strategic Technology Planning
--Information Security and Data Governance
--Team Leadership and Team Management and  Development
+<strong class="mb-1">Responsibilities:</strong>
+<span class="doted"> -  </span>Strategic Technology Planning
+<span class="doted"> -  </span>Information Security and Data Governance
+<span class="doted"> -  </span>Team Leadership and Team Management and  Development
                 </pre>
               </li>
               <li class="timeline-item">
@@ -712,16 +697,33 @@
                 <p>Sookh</p>
                 <span>May 2021 -  Present . 2 years 5 months</span>
 
-                <p class="timeline-text">
+                <p class="timeline-text mb-0">
                   Banani, Dhaka, Bangladesh
                 </p>
+<pre>
+
+<strong class="mb-1">Responsibilities:</strong>
+<span class="doted"> -  </span>Technology Strategy and Innovation
+<span class="doted"> -  </span>Technical Leadership and Team Management
+<span class="doted"> -  </span>Infrastructure and Systems Management
+</pre>
+
               </li>
 
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">Chief information officer</h4>
                 <p>Imprint Dhaka Limited</p>
                 <span>7 years 4 months</span>
-                <p class="timeline-text"> Banani, Dhaka, Bangladesh </p>
+                <p class="timeline-text mb-0"> Banani, Dhaka, Bangladesh </p>
+<pre>
+
+<strong class="mb-1">Responsibilities:</strong>
+<span class="doted"> -  </span>Technology Strategy Development
+<span class="doted"> -  </span>Team Leadership and Management
+<span class="doted"> -  </span>Technology Stack and Architecture
+<span class="doted"> -  </span>Strategic Planning
+<span class="doted"> -  </span>Cybersecurity and Data Protection:
+</pre>
               </li>
 
               
@@ -974,7 +976,7 @@
                 <a href="https://lms.onesttech.com/sign-in" target="_blank">
                   <figure class="project-img">
                     <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
+                      src="assets/images/figma/Thumbnail-LMS.png"
                       alt="fundo"
                       loading="lazy"
                     />
@@ -1425,13 +1427,34 @@
                 </a>
               </li>
 
+              <li
+                class="project-item active"
+                data-filter-item
+                data-category="web application"
+              >
+                <a href="assets/images/odialer/oDialer _business proposal.pdf" target="_blank"> 
+                  <figure class="project-img">
+
+                    <img
+                      src="assets/images/figma/Thumbnail-Odialer.png"
+                      alt="arrival"
+                      loading="lazy"
+                    />
+                  </figure>
+
+                  <h3 class="project-title">oDialer</h3>
+
+                  <p class="project-category">web application</p>
+                </a>
+              </li>
+
 
               <!-- Figma -->
               <li  class="project-item active" data-filter-item   data-category="ui-ux design">
                   <button type="button" data-bs-toggle="modal" data-bs-target="#one"> 
                       <figure class="project-img">
                         <img
-                          src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-web-application.avif"
+                          src="assets/images/figma/Thumbnail-LMS.png"
                           alt="arrival"
                           loading="lazy"
                         />
@@ -1729,9 +1752,7 @@
                           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-
                           <img src="assets/images/figma/Blood-Donation.png" alt="" class="w-100">
-
                         </div>
                         <div class="modal-footer">
                           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -1740,8 +1761,6 @@
                     </div>
                   </div>
               </li>
-
-              
 
             </ul>
           </section>
@@ -1863,7 +1882,7 @@
           <section class="mapbox" data-mapbox>
             <figure>
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d199666.5651251294!2d-121.58334177520186!3d38.56165006739519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809ac672b28397f9%3A0x921f6aaa74197fdb!2sSacramento%2C%20CA%2C%20USA!5e0!3m2!1sen!2sbd!4v1647608789441!5m2!1sen!2sbd"
+                src="https://maps.app.goo.gl/7M9KzNdwL5qkQgo67"
                 width="400"
                 height="300"
                 loading="lazy"
@@ -1909,9 +1928,21 @@
               </button>
             </form>
           </section>
+
         </article>
+
+        <article class="active footer">
+          <p class="mb-0">© 2023 <a href="https://jahangir-alam.me/">jahangir-alam</a>. All rights reserved.</p>
+        </article>
+
       </div>
     </main>
+
+
+    <a href="https://api.whatsapp.com/send?phone=8801810022230" target="_blank" id="contact-whatsApp">
+      <img src="assets/images/whatsApp.png" alt="">
+    </a>
+
 
     <!--
     - custom js link
@@ -2001,3 +2032,4 @@
     </script>
   </body>
 </html>
+

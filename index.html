@@ -1892,8 +1892,9 @@
 
           <section class="contact-form">
             <h3 class="h3 form-title">Contact Form</h3>
+            <div id="response-message"></div>
 
-            <form action="mail.php" class="form" data-form method="POST">
+            <form action="mail.php" class="form" data-form method="POST" id="contact-form">
               <div class="input-wrapper">
                 <input
                   type="text"
@@ -2029,6 +2030,38 @@
       .catch(error => {
         console.error('Error fetching JSON:', error);
       });
+
+
+
+
+
+
+    // Mail
+      document.addEventListener("DOMContentLoaded", function () {
+      const contactForm = document.getElementById("contact-form");
+      const responseMessage = document.getElementById("response-message");
+      contactForm.addEventListener("submit", function (e) {
+        e.preventDefault();
+
+        const formData = new FormData(contactForm);
+
+          fetch("mail.php", {
+            method: "POST",
+            body: formData,
+          })
+            .then((response) => response.text())
+            .then((data) => {
+              responseMessage.innerHTML = data;
+              contactForm.reset(); // Clear the form after submission
+            })
+            .catch((error) => {
+              responseMessage.innerHTML = "An error occurred. Please try again.";
+              console.error(error);
+            });
+        });
+      });
+    // End-of mail
+
     </script>
   </body>
 </html>

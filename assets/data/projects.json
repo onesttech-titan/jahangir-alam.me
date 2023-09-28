@@ -4,21 +4,20 @@
         "category": "web application",
         "categoryId": "web application",
         "hasModal": false,
-        "url":"https://school.onesttech.com/login",
+        "url": "https://school.onesttech.com/login",
         "name": "school web",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-schooled-school-management-system-laravel-script.avif",
-        "description": ""
+        "short_description": ""
     },
-
     {
         "id": "project-2",
         "category": "mobile application",
         "categoryId": "mobile application",
         "name": "school app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-schooled-school-management-system-laravel-script.avif",
-        "description": "<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-lg-6\">\n      <img src=\"assets/images/app/queue-privew.png\" alt=\"\" class=\"w-100 mb-4\" />\n      <p class=\"text-pear-modal mb-2\">\n        Introducing On Queue - A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient experience for both customers and administrators. With a wide array of features, our system aims to transform the way queues are handled, ensuring a hassle-free and convenient process for everyone involved.\n      </p>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Key Features:\n      </h4>\n      <ul class=\"mb-3\">\n        <li class=\"text-pear-modal\">\n          Real-time Token Tracking: Customers can easily check their real-time token status directly from the Queue list, giving them complete visibility and control over their position.\n        </li>\n        <li class=\"text-pear-modal\">\n          Create New Tokens: With the \"Create Token\" option, customers can generate new tokens quickly and effortlessly, eliminating the need for physical tickets.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Administrative Features:\n      </h4>\n      <ul>\n        <li class=\"text-pear-modal\">\n          Efficient Token Management: Our system empowers administrators to manage various types of tokens, such as current, upcoming, and recalled tokens, streamlining the overall queue management process.\n        </li>\n        <li class=\"text-pear-modal\">\n          Digital Queue Board: Welcome to our Digital Queue Board – an ultimate solution for queue management. The futuristic system offers a real-time ticket monitoring experience, providing users with estimated wait times and their corresponding serial numbers.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <p class=\"text-pear-modal mb-3\">\n        With our Queue Management System, embrace a new era of efficiency and customer satisfaction. Enjoy a streamlined and organized queue experience, providing your customers with the best user-experience possible. Say goodbye to long wait times and disorganization, and step into the future of queue management with us.\n      </p>\n      <h4 class=\"text-pear-modal\">Admin Dashboard</h4>\n      <p class=\"text-pear-modal\">\n        <a href=\"https://onqueuewebadmin.vercel.app/#/\">https://onqueuewebadmin.vercel.app/#/</a>\n      </p>\n      <!-- Other content here -->\n    </div>\n  </div>\n</div>"    
+        "short_description": "<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-lg-6\">\n      <img src=\"assets/images/app/queue-privew.png\" alt=\"\" class=\"w-100 mb-4\" />\n      <p class=\"text-pear-modal mb-2\">\n        Introducing On Queue - A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient experience for both customers and administrators. With a wide array of features, our system aims to transform the way queues are handled, ensuring a hassle-free and convenient process for everyone involved.\n      </p>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Key Features:\n      </h4>\n      <ul class=\"mb-3\">\n        <li class=\"text-pear-modal\">\n          Real-time Token Tracking: Customers can easily check their real-time token status directly from the Queue list, giving them complete visibility and control over their position.\n        </li>\n        <li class=\"text-pear-modal\">\n          Create New Tokens: With the \"Create Token\" option, customers can generate new tokens quickly and effortlessly, eliminating the need for physical tickets.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Administrative Features:\n      </h4>\n      <ul>\n        <li class=\"text-pear-modal\">\n          Efficient Token Management: Our system empowers administrators to manage various types of tokens, such as current, upcoming, and recalled tokens, streamlining the overall queue management process.\n        </li>\n        <li class=\"text-pear-modal\">\n          Digital Queue Board: Welcome to our Digital Queue Board – an ultimate solution for queue management. The futuristic system offers a real-time ticket monitoring experience, providing users with estimated wait times and their corresponding serial numbers.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <p class=\"text-pear-modal mb-3\">\n        With our Queue Management System, embrace a new era of efficiency and customer satisfaction. Enjoy a streamlined and organized queue experience, providing your customers with the best user-experience possible. Say goodbye to long wait times and disorganization, and step into the future of queue management with us.\n      </p>\n      <h4 class=\"text-pear-modal\">Admin Dashboard</h4>\n      <p class=\"text-pear-modal\">\n        <a href=\"https://onqueuewebadmin.vercel.app/#/\">https://onqueuewebadmin.vercel.app/#/</a>\n      </p>\n      <!-- Other content here -->\n    </div>\n  </div>\n</div>"
     },
     {
         "id": "project-3",
@@ -26,9 +25,9 @@
         "categoryId": "mobile application",
         "name": "school-inspection",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/school-inspection-report-flutter-application.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-4",
@@ -37,8 +36,7 @@
         "name": "queue app",
         "hasModal": true,
         "thumbnail": "assets/images/app/queue-privew.png",
-        "description": "<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-lg-6\">\n      <img src=\"assets/images/app/queue-privew.png\" alt=\"\" class=\"w-100 mb-4\" />\n      <p class=\"text-pear-modal mb-2\">\n        Introducing On Queue - A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient experience for both customers and administrators. With a wide array of features, our system aims to transform the way queues are handled, ensuring a hassle-free and convenient process for everyone involved.\n      </p>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Key Features:\n      </h4>\n      <ul class=\"mb-3\">\n        <li class=\"text-pear-modal\">\n          Real-time Token Tracking: Customers can easily check their real-time token status directly from the Queue list, giving them complete visibility and control over their position.\n        </li>\n        <li class=\"text-pear-modal\">\n          Create New Tokens: With the \"Create Token\" option, customers can generate new tokens quickly and effortlessly, eliminating the need for physical tickets.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Administrative Features:\n      </h4>\n      <ul>\n        <li class=\"text-pear-modal\">\n          Efficient Token Management: Our system empowers administrators to manage various types of tokens, such as current, upcoming, and recalled tokens, streamlining the overall queue management process.\n        </li>\n        <li class=\"text-pear-modal\">\n          Digital Queue Board: Welcome to our Digital Queue Board – an ultimate solution for queue management. The futuristic system offers a real-time ticket monitoring experience, providing users with estimated wait times and their corresponding serial numbers.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <p class=\"text-pear-modal mb-3\">\n        With our Queue Management System, embrace a new era of efficiency and customer satisfaction. Enjoy a streamlined and organized queue experience, providing your customers with the best user-experience possible. Say goodbye to long wait times and disorganization, and step into the future of queue management with us.\n      </p>\n      <h4 class=\"text-pear-modal\">Admin Dashboard</h4>\n      <p class=\"text-pear-modal\">\n        <a href=\"https://onqueuewebadmin.vercel.app/#/\">https://onqueuewebadmin.vercel.app/#/</a>\n      </p>\n      <!-- Other content here -->\n    </div>\n  </div>\n</div>"    
-
+        "short_description": "<div class=\"container\">\n  <div class=\"row justify-content-center\">\n    <div class=\"col-lg-6\">\n      <img src=\"assets/images/app/queue-privew.png\" alt=\"\" class=\"w-100 mb-4\" />\n      <p class=\"text-pear-modal mb-2\">\n        Introducing On Queue - A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient experience for both customers and administrators. With a wide array of features, our system aims to transform the way queues are handled, ensuring a hassle-free and convenient process for everyone involved.\n      </p>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Key Features:\n      </h4>\n      <ul class=\"mb-3\">\n        <li class=\"text-pear-modal\">\n          Real-time Token Tracking: Customers can easily check their real-time token status directly from the Queue list, giving them complete visibility and control over their position.\n        </li>\n        <li class=\"text-pear-modal\">\n          Create New Tokens: With the \"Create Token\" option, customers can generate new tokens quickly and effortlessly, eliminating the need for physical tickets.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <h4 class=\"mb-3 text-pear-modal\">\n        Administrative Features:\n      </h4>\n      <ul>\n        <li class=\"text-pear-modal\">\n          Efficient Token Management: Our system empowers administrators to manage various types of tokens, such as current, upcoming, and recalled tokens, streamlining the overall queue management process.\n        </li>\n        <li class=\"text-pear-modal\">\n          Digital Queue Board: Welcome to our Digital Queue Board – an ultimate solution for queue management. The futuristic system offers a real-time ticket monitoring experience, providing users with estimated wait times and their corresponding serial numbers.\n        </li>\n        <!-- Other list items here -->\n      </ul>\n      <p class=\"text-pear-modal mb-3\">\n        With our Queue Management System, embrace a new era of efficiency and customer satisfaction. Enjoy a streamlined and organized queue experience, providing your customers with the best user-experience possible. Say goodbye to long wait times and disorganization, and step into the future of queue management with us.\n      </p>\n      <h4 class=\"text-pear-modal\">Admin Dashboard</h4>\n      <p class=\"text-pear-modal\">\n        <a href=\"https://onqueuewebadmin.vercel.app/#/\">https://onqueuewebadmin.vercel.app/#/</a>\n      </p>\n      <!-- Other content here -->\n    </div>\n  </div>\n</div>"
     },
     {
         "id": "project-5",
@@ -46,9 +44,9 @@
         "categoryId": "web application",
         "name": "queue web",
         "hasModal": false,
-        "url":"https://onqueuewebadmin.vercel.app/#/",
+        "url": "https://onqueuewebadmin.vercel.app/#/",
         "thumbnail": "assets/images/app/queue-privew.png",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-6",
@@ -56,9 +54,9 @@
         "categoryId": "mobile application",
         "name": "lms app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-mobile-app.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-7",
@@ -66,9 +64,9 @@
         "categoryId": "web application",
         "name": "lms web",
         "hasModal": false,
-        "url":"https://lms.onesttech.com/sign-in",
+        "url": "https://lms.onesttech.com/sign-in",
         "thumbnail": "assets/images/figma/Thumbnail-LMS.png",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-8",
@@ -76,19 +74,41 @@
         "categoryId": "web application",
         "name": "crm web",
         "hasModal": false,
-        "url":"https://crmv1.onestweb.com/login",
+        "url": "https://crmv1.onestweb.com/login",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-crm-customer-relation-management-system.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-9",
+        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
         "category": "mobile application",
         "categoryId": "mobile application",
         "name": "crm app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-crm-multiple-platform-crm-mobile-application.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "long_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | InitiativeStrong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "description_images": [
+            {
+                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+            },
+            {
+                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+            }
+        ],
+        "login": [
+            {
+                "type": "admin",
+                "email": "test@test.com",
+                "password": "123123"
+            },
+            {
+                "type": "customer",
+                "email": "customer@test.com",
+                "password": "123123"
+            }
+        ]
     },
     {
         "id": "project-10",
@@ -96,9 +116,9 @@
         "categoryId": "mobile application",
         "name": "Chat + Calling",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/chat-calling-live-social-media-ios-android-application.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-11",
@@ -106,9 +126,9 @@
         "categoryId": "mobile application",
         "name": "Delivery Man",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-delivery-man-ui-kit.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-12",
@@ -116,9 +136,9 @@
         "categoryId": "mobile application",
         "name": "adgari",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/branding-advertising-moving-billboard-flutter-and-web-application.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-12",
@@ -126,9 +146,9 @@
         "categoryId": "mobile application",
         "name": "QR Attendance",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/hrm-qr-attendance.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-13",
@@ -136,9 +156,9 @@
         "categoryId": "mobile application",
         "name": "Club",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onex-club-multi-purpose-flutter-app.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-14",
@@ -146,9 +166,9 @@
         "categoryId": "mobile application",
         "name": "news magazine",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-news-and-magazine-app-ui-template.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-15",
@@ -156,9 +176,9 @@
         "categoryId": "web application",
         "name": "eCommerce web",
         "hasModal": false,
-        "url":"https://grocery.onesttech.com",
+        "url": "https://grocery.onesttech.com",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/multipurpose-and-multivendor-ecommerce-app-web-admin-panel.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-16",
@@ -166,9 +186,9 @@
         "categoryId": "mobile application",
         "name": "eCommerce app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/multipurpose-and-multivendor-ecommerce-app-web-admin-panel.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -176,9 +196,9 @@
         "categoryId": "mobile application",
         "name": "pharmacy",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/multi-vendor-pharmacy-ecommerce-app-ui-kit.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -186,9 +206,9 @@
         "categoryId": "mobile application",
         "name": "food menu  app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -196,9 +216,9 @@
         "categoryId": "web application",
         "name": "food menu web",
         "hasModal": false,
-        "url":"https://smart-food-customer.vercel.app/#/",
+        "url": "https://smart-food-customer.vercel.app/#/",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -206,9 +226,9 @@
         "categoryId": "web application",
         "name": "Queue Management System",
         "hasModal": false,
-        "url":"https://smart-food-customer.vercel.app/#/",
+        "url": "https://smart-food-customer.vercel.app/#/",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/queue-management-system-flutter-android-ios-flutter-web.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -216,9 +236,9 @@
         "categoryId": "web application",
         "name": "Seller ecommerce  web",
         "hasModal": false,
-        "url":"https://ecom.onesttech.com/",
+        "url": "https://ecom.onesttech.com/",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -226,9 +246,9 @@
         "categoryId": "mobile application",
         "name": "Seller APP",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -236,9 +256,9 @@
         "categoryId": "mobile application",
         "name": "tailor",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/tailor-all-in-one-app-for-tailor-and-customer-management.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -246,9 +266,9 @@
         "categoryId": "mobile application",
         "name": "Property Management app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/property-management-apartment-rent-collection-tenant-and-invoice-bill.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -256,9 +276,9 @@
         "categoryId": "web application",
         "name": "Property Management web",
         "hasModal": false,
-        "url":"https://landlord.onestweb.com/",
+        "url": "https://landlord.onestweb.com/",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/property-management-apartment-rent-collection-tenant-and-invoice-bill.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -266,9 +286,9 @@
         "categoryId": "mobile application",
         "name": "music app",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/offline-music-app-online-music-streaming-and-podcast.avif",
-        "description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
+        "short_description": "<h3 class=\"project-title text-pear-modal\">coming soon</h3>"
     },
     {
         "id": "project-17",
@@ -276,9 +296,9 @@
         "categoryId": "web application",
         "name": "music web",
         "hasModal": false,
-        "url":"https://www.dhakdol.com",
+        "url": "https://www.dhakdol.com",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/offline-music-app-online-music-streaming-and-podcast.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -286,9 +306,9 @@
         "categoryId": "web application",
         "name": "Registration Form",
         "hasModal": false,
-        "url":"https://login.onesttech.com",
+        "url": "https://login.onesttech.com",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-ultra-11-responsive-login-and-registration-form.avif",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -296,9 +316,9 @@
         "categoryId": "web application",
         "name": "oDialer web",
         "hasModal": false,
-        "url":"assets/images/odialer/oDialer _business proposal.pdf",
+        "url": "assets/images/odialer/oDialer _business proposal.pdf",
         "thumbnail": "assets/images/figma/Thumbnail-Odialer.png",
-        "description": ""
+        "short_description": ""
     },
     {
         "id": "project-17",
@@ -306,219 +326,198 @@
         "categoryId": "mobile application",
         "name": "Party time",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/app/party.avif",
-        "description": " <div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-6\">\n  <img src=\"assets/images/app/party.avif\" alt=\"\" class=\"w-100 mb-4\" />\n  <h4 class=\"text-pear-modal mb-3\">Demo Party</h4>\n  <a href=\"https://drive.google.com/drive/folders/16I7oem5xfba-KoqMq641pFgmXPNGHR-z\">Download Apk Here</a>\n  <h6 class=\"text-pear-modal mb-3 mt-3\">Login1</h6>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">email: anup@gmail.com</a></p>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">password:12345678</a></p>\n  <h3></h3>\n  <hr />\n  <h6 class=\"text-pear-modal mb-3 mt-3\">Login2</h6>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">email: dev@gmail.com</a></p>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">password:12345678</a></p>\n  <h3></h3>\n  <br />\n  <img src=\"assets/images/app/party-preview.png\" alt=\"Image\" class=\"w-100\" />\n  <br />\n  <br />\n</div>\n</div>\n</div>"
-
+        "short_description": " <div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-lg-6\">\n  <img src=\"assets/images/app/party.avif\" alt=\"\" class=\"w-100 mb-4\" />\n  <h4 class=\"text-pear-modal mb-3\">Demo Party</h4>\n  <a href=\"https://drive.google.com/drive/folders/16I7oem5xfba-KoqMq641pFgmXPNGHR-z\">Download Apk Here</a>\n  <h6 class=\"text-pear-modal mb-3 mt-3\">Login1</h6>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">email: anup@gmail.com</a></p>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">password:12345678</a></p>\n  <h3></h3>\n  <hr />\n  <h6 class=\"text-pear-modal mb-3 mt-3\">Login2</h6>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">email: dev@gmail.com</a></p>\n  <p class=\"text-pear-modal m-0\"><a href=\"#\">password:12345678</a></p>\n  <h3></h3>\n  <br />\n  <img src=\"assets/images/app/party-preview.png\" alt=\"Image\" class=\"w-100\" />\n  <br />\n  <br />\n</div>\n</div>\n</div>"
     },
-    
-
-
-
-
-
-
-
-
-
-
-
-
     {
-        "id": "project-50", 
+        "id": "project-50",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "LMS  web - UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-LMS.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n <img src=\"assets/images/figma/lms-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n <img src=\"assets/images/figma/lms-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
-
     {
-        "id": "project-51", 
+        "id": "project-51",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "LMS  app - UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://codecanyon.img.customer.envatousercontent.com/files/456295455/Preview.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=28810ad15c8cfee5d168cb174d37293b",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n <img src=\"assets/images/figma/lms-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n <img src=\"assets/images/figma/lms-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-51", 
+        "id": "project-51",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Adgari app - Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Adgari.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/adgari-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
-
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/adgari-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-53", 
+        "id": "project-53",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Adgari web - Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Adgari.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Adgari-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
-
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Adgari-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-54", 
+        "id": "project-54",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "HRM - app Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-HRM.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/HRM-App.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
-
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/HRM-App.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-55", 
+        "id": "project-55",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "HRM web",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-HRM.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/HRM-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
-
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/HRM-web.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-56", 
+        "id": "project-56",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "CRM - app Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-CRM.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/CRM-app2-presentation template.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/CRM-app2-presentation template.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-57", 
+        "id": "project-57",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "CRM - web Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-CRM.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/CRM.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/CRM.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-58", 
+        "id": "project-58",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Landlord - web Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Landlord.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Landlord.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Landlord.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-59", 
+        "id": "project-59",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Landlord - app Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Landlord.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/landlored-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/landlored-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-60", 
+        "id": "project-60",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Schooled - UI/UX Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Schooled.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Schooled.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Schooled.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-61", 
+        "id": "project-61",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "School Inspection - App Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Schooled.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/School-Inspection-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/School-Inspection-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-62", 
+        "id": "project-62",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Music - UI/UX Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Music.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Music.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Music.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-63", 
+        "id": "project-63",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Fundrising - UI/UX Design",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Fundrising.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Fundrising.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Fundrising.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-64", 
+        "id": "project-64",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "Blood-Donation - UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Blood Donation.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Blood-Donation.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/Blood-Donation.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-65", 
+        "id": "project-65",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "DeliveryBoy - app UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "https://codecanyon.img.customer.envatousercontent.com/files/408851397/Banner-DeliveryBoy-light.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=4618828c295bfdb72eea5984165d3237",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/DeliveryBoy-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/DeliveryBoy-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-66", 
+        "id": "project-66",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "party - app UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Party Time App.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/party-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/party-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-67", 
+        "id": "project-67",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "queue - app UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-Queue.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/queue-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/queue-app.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     },
     {
-        "id": "project-68", 
+        "id": "project-68",
         "category": "ui-ux design",
         "categoryId": "ui-ux design",
         "name": "News - app UI/UX",
         "hasModal": true,
-        "url":"",
+        "url": "",
         "thumbnail": "assets/images/figma/Thumbnail-News.png",
-        "description":"<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/News-App.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
+        "short_description": "<div class=\"container\">\n  <div class=\"row\">\n    <div class=\"col-lg-12\">\n      <img src=\"assets/images/figma/News-App.png\" alt=\"\" class=\"w-100\" />\n    </div>\n  </div>\n</div>"
     }
-
-
 ]

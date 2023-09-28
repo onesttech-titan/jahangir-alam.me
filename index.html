@@ -1187,11 +1187,7 @@
             <!-- Descriptins -->
             <div class="container">
               <div class="row justify-content-center">
-                <div class="col-lg-6">
-
-                
-
-                </div>
+                <div class="col-lg-6"></div>
               </div>
             </div>
             <!-- Descriptions -->
@@ -1335,7 +1331,6 @@
         this.classList.add("active");
       });
       // Filer portfolio custom
-
     </script>
 
     <script>
@@ -1357,11 +1352,29 @@
 
           // Find the project details
           const [projectDetails] = data.filter((item) => item.id === projectId);
+          console.log(projectDetails);
+          var str = '<div class="container">';
+          str += '<div class="row justify-content-center">';
+          str += '<div class="col-lg-6">';
 
-          // Set the modal body content
-          $("#projectDetailsModal .modal-body").html(
-            projectDetails.description
-          );
+          str += `<h1 class="text-dark">${projectDetails.title}</h1>`;
+          str += `<img src="${projectDetails.thumbnail}"</img>`;
+          str += `<p class="text-dark">${projectDetails.short_description}</p>`;
+          str += `<hr />`;
+          $.each(projectDetails.login, function (key, row) {
+            str += `<h2 class="text-dark">${row.type}</h2>`;
+            str += `<p class="text-dark">Email: ${row.email}</p>`;
+            str += `<p class="text-dark">Password: ${row.password}</p>`;
+          });
+          $.each(projectDetails.description_images, function (key, row) {
+            str += `<img src="${row.img}"</img>`;
+          });
+          str += `<p class="text-dark">${projectDetails.long_description}</p>`;
+
+          str += "</div>";
+          str += "</div>";
+          str += "</div>";
+          $("#projectDetailsModal .modal-body").html(str);
         } catch (error) {
           console.error("Error:", error);
         }

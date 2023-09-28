@@ -20,9 +20,13 @@
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap"
       rel="stylesheet"
     />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <link rel="stylesheet" href="./assets/css/style.css" />
-
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./assets/css/style.css" />
   </head>
 
   <body>
@@ -32,7 +36,6 @@
       <!--
       - #SIDEBAR
     -->
-
 
       <aside class="sidebar" data-sidebar>
         <div class="sidebar-info">
@@ -46,9 +49,7 @@
           </figure>
 
           <div class="info-content">
-            <h1 class="name" title="Richard hanrick">
-              Jahangir Alam
-            </h1>
+            <h1 class="name" title="Richard hanrick">Jahangir Alam</h1>
 
             <p class="title">CIO, Onest Tech LLC</p>
           </div>
@@ -64,19 +65,17 @@
           <div class="mt-4"></div>
 
           <ul class="contacts-list">
-
-
             <li class="contact-item">
               <div class="contact-info">
-                <p class="contact-title">Hours per week </p>
+                <p class="contact-title">Hours per week</p>
                 <p>More than 20 hrs/week</p>
               </div>
             </li>
 
             <li class="contact-item">
               <div class="contact-info">
-                <p class="contact-title">Languages  </p>
-                <p >English: Fluent</p>
+                <p class="contact-title">Languages</p>
+                <p>English: Fluent</p>
               </div>
             </li>
 
@@ -88,6 +87,15 @@
 
                 <a href="tel:+8801810022230" class="contact-link"
                   >+8801810022230</a
+                >
+              </div>
+            </li>
+            <li class="contact-item">
+              <div class="contact-info">
+                <p class="contact-title">email</p>
+
+                <a href="jahangiralam@gmail.com" class="contact-link"
+                  >jahangiralam@gmail.com</a
                 >
               </div>
             </li>
@@ -179,34 +187,60 @@
 
         <article class="about active" data-page="about">
           <header>
-            <h2 class="h2 article-title">
-              About Me
-            </h2>
+            <h2 class="h2 article-title">About Me</h2>
           </header>
 
           <section class="about-text">
             <p>
-              Hello people! My name is Md. Jahangir Alam, and I am the Chief Information Officer (CIO) at Onest Tech LLC. Technology has always been the driving factor in my life as it influences me to showcase the best of my abilities - Innovation, Strategizing, & Leadership. I am a calculated individual who believes in logic, which is also the very reason I find technology inspiring. Being capable of providing solutions to people’s problems with the help of my knowledge is what keeps me motivated and hungry to achieve greater feats. 
+              Hello people! My name is Md. Jahangir Alam, and I am the Chief
+              Information Officer (CIO) at Onest Tech LLC. Technology has always
+              been the driving factor in my life as it influences me to showcase
+              the best of my abilities - Innovation, Strategizing, & Leadership.
+              I am a calculated individual who believes in logic, which is also
+              the very reason I find technology inspiring. Being capable of
+              providing solutions to people’s problems with the help of my
+              knowledge is what keeps me motivated and hungry to achieve greater
+              feats.
             </p>
 
-            <h4>Professional Career Overview: </h4>
+            <h4>Professional Career Overview:</h4>
             <p>
-              Ever since I had commenced my journey in the realm of Information Technology, I had always pushed myself to learn new things. The IT sector knows no bounds when it comes to knowledge, as it is ever-growing, with technological developments taking place every now and then. I quickly realised in the initial stages of my career that, in order to qualify as a true professional in this critical industry, one must possess diverse knowledge in various facets of IT. I have had the privilege of working with cutting-edge technologies and talented teams throughout my career. Before joining Onest Tech LLC, I started out as a Junior Developer to then become a Project Manager and maintained focal leadership positions at other renowned tech companies, where I perfected my skills in IT strategy, digital transformation, and IT infrastructure management.
+              Ever since I had commenced my journey in the realm of Information
+              Technology, I had always pushed myself to learn new things. The IT
+              sector knows no bounds when it comes to knowledge, as it is
+              ever-growing, with technological developments taking place every
+              now and then. I quickly realised in the initial stages of my
+              career that, in order to qualify as a true professional in this
+              critical industry, one must possess diverse knowledge in various
+              facets of IT. I have had the privilege of working with
+              cutting-edge technologies and talented teams throughout my career.
+              Before joining Onest Tech LLC, I started out as a Junior Developer
+              to then become a Project Manager and maintained focal leadership
+              positions at other renowned tech companies, where I perfected my
+              skills in IT strategy, digital transformation, and IT
+              infrastructure management.
             </p>
 
             <p>
-              In my 10 years of experience, I have cultivated a full-fledged understanding of current Web Technologies as well as popular Web building languages such as PHP, MySQL, HTML5, CSS3, Javascript, jQuery, VueJS, and more. I am a competent and certified Full-Stack Developer, Software Architect, System Analyst as well as Software Designer (UI/UX). 
+              In my 10 years of experience, I have cultivated a full-fledged
+              understanding of current Web Technologies as well as popular Web
+              building languages such as PHP, MySQL, HTML5, CSS3, Javascript,
+              jQuery, VueJS, and more. I am a competent and certified Full-Stack
+              Developer, Software Architect, System Analyst as well as Software
+              Designer (UI/UX).
             </p>
 
-            <h4>Method of Approach : </h4>
+            <h4>Method of Approach :</h4>
             <p>
-              Having developed a strong and versatile background in IT development, Sales, Project Management and Human Resources has enabled me to improve my communication and managerial skills, which are paramount in my radar of work. My approach to work is simple - Identify the problems and take the necessary steps to eliminate them in the most efficient manner. 
+              Having developed a strong and versatile background in IT
+              development, Sales, Project Management and Human Resources has
+              enabled me to improve my communication and managerial skills,
+              which are paramount in my radar of work. My approach to work is
+              simple - Identify the problems and take the necessary steps to
+              eliminate them in the most efficient manner.
             </p>
 
-            <h4>
-              Qualifications : 
-
-            </h4>
+            <h4>Qualifications :</h4>
             <pre>
 • Bachelor’s Degree in Computer Science and Engineering.
 • Fluent in CSS, JavaScript and HTML, with an understanding of CSS including Sass and LESS.
@@ -222,14 +256,11 @@
 • Website UI/UX Design (Proficient in FIGMA) 
             </pre>
 
-            <h4>
-              Key skills :
-
-            </h4>
+            <h4>Key skills :</h4>
             <p>
-              Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative
+              Strong analytical skills | Attention to detail | Teamwork skills |
+              Interpersonal skills | Flexibility | Adaptability | Initiative
             </p>
-      
           </section>
 
           <!--
@@ -341,12 +372,17 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                  Abrar Sajed Rahman
+                    Rafid Rahman
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Mr. Jahangir is a professional when it comes to dictating the flow of things in order to get them arranged, organized and operating seamlessly. He is an astute individual and has sheer leadership prowess, which makes him a genuine leader no matter how adverse the situation maybe. 
+                      Mr. Jahangir is a professional when it comes to dictating
+                      the flow of things in order to get them arranged,
+                      organized and operating seamlessly. He is an astute
+                      individual and has sheer leadership prowess, which makes
+                      him a genuine leader no matter how adverse the situation
+                      maybe.
                     </p>
                   </div>
                 </div>
@@ -367,12 +403,17 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                  Imran Touhid
+                    Imran Touhid
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Working with Mr. Jahangir has been nothing short of an absolute pleasure. When it comes to business, he knows how to get things done fast and right. A dedicated professional like him makes business dealings much easier, as his extensive knowledge really sets him leagues above his competitors.
+                      Working with Mr. Jahangir has been nothing short of an
+                      absolute pleasure. When it comes to business, he knows how
+                      to get things done fast and right. A dedicated
+                      professional like him makes business dealings much easier,
+                      as his extensive knowledge really sets him leagues above
+                      his competitors.
                     </p>
                   </div>
                 </div>
@@ -393,12 +434,17 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                  Noushin Haidar - 
+                    Noushin Haidar -
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Sir Jahangir is a fantastic influence. I have learned a lot from him and still do as he enlightens me with his solid real world understanding. His brilliance and determination is unmatched, as well as his distinctive personality which makes him a really fun person to be around of. 
+                      Sir Jahangir is a fantastic influence. I have learned a
+                      lot from him and still do as he enlightens me with his
+                      solid real world understanding. His brilliance and
+                      determination is unmatched, as well as his distinctive
+                      personality which makes him a really fun person to be
+                      around of.
                     </p>
                   </div>
                 </div>
@@ -419,12 +465,16 @@
                     class="h4 testimonials-item-title"
                     data-testimonials-title
                   >
-                  Sam Williams - 
+                    Sam Williams -
                   </h4>
 
                   <div class="testimonials-text" data-testimonials-text>
                     <p>
-                      Jahangir is a gem of a character when it comes to skilfullness in diversity. He is vastly experienced in a multitude of fields; a true professional. His hard working nature enables him to hone his craft, regardless of what it is that he sets his mind to. 
+                      Jahangir is a gem of a character when it comes to
+                      skilfullness in diversity. He is vastly experienced in a
+                      multitude of fields; a true professional. His hard working
+                      nature enables him to hone his craft, regardless of what
+                      it is that he sets his mind to.
                     </p>
                   </div>
                 </div>
@@ -485,7 +535,7 @@
 
             <ul class="clients-list has-scrollbar">
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-1-color.png"
                     alt="client logo"
@@ -494,7 +544,7 @@
               </li>
 
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-2-color.png"
                     alt="client logo"
@@ -503,7 +553,7 @@
               </li>
 
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-3-color.png"
                     alt="client logo"
@@ -512,7 +562,7 @@
               </li>
 
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-4-color.png"
                     alt="client logo"
@@ -521,7 +571,7 @@
               </li>
 
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-5-color.png"
                     alt="client logo"
@@ -530,7 +580,7 @@
               </li>
 
               <li class="clients-item">
-                <a href="#" target="_blank"> 
+                <a href="#" target="_blank">
                   <img
                     src="./assets/images/logo-6-color.png"
                     alt="client logo"
@@ -539,10 +589,6 @@
               </li>
             </ul>
           </section>
-
-         
-  
-
         </article>
 
         <!--
@@ -554,7 +600,7 @@
             <h2 class="h2 article-title">Resume</h2>
           </header>
 
-        <!-- my Skill -->
+          <!-- my Skill -->
           <section class="skill mb-3">
             <h3 class="h3 skills-title">My skills</h3>
 
@@ -563,7 +609,6 @@
             </div> -->
 
             <ul class="service-list px-0">
-
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
@@ -584,7 +629,9 @@
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
-                  <h4 class="h4 service-item-title">Leadership and Management:</h4>
+                  <h4 class="h4 service-item-title">
+                    Leadership and Management:
+                  </h4>
 
                   <pre class="service-item-text service-item-text2 mb-0">
 <span class="doted"> -  </span>Team Building and Development
@@ -601,9 +648,11 @@
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
-                  <h4 class="h4 service-item-title">Innovation and Strategy: </h4>
+                  <h4 class="h4 service-item-title">
+                    Innovation and Strategy:
+                  </h4>
 
-<pre class="service-item-text service-item-text2 mb-0">
+                  <pre class="service-item-text service-item-text2 mb-0">
 <span class="doted"> -  </span>Technology Roadmap Development
 <span class="doted"> -  </span>Market Analysis and Trends Assessment
 <span class="doted"> -  </span>Product Lifecycle Management
@@ -617,9 +666,11 @@
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
-                  <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
+                  <h4 class="h4 service-item-title">
+                    Problem Solving and Decision-Making:
+                  </h4>
 
-<pre class="service-item-text service-item-text2 mb-0">
+                  <pre class="service-item-text service-item-text2 mb-0">
 <span class="doted"> -  </span>Complex Problem Analysis
 <span class="doted"> -  </span>Critical Thinking and Decision-Making
 <span class="doted"> -  </span>Crisis Management
@@ -632,9 +683,11 @@
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
-                  <h4 class="h4 service-item-title">Problem Solving and Decision-Making: </h4>
+                  <h4 class="h4 service-item-title">
+                    Problem Solving and Decision-Making:
+                  </h4>
 
-<pre class="service-item-text service-item-text2 mb-0">
+                  <pre class="service-item-text service-item-text2 mb-0">
 <span class="doted"> -  </span>Complex Problem Analysis
 <span class="doted"> -  </span>Critical Thinking and Decision-Making
 <span class="doted"> -  </span>Crisis Management
@@ -647,9 +700,11 @@
               <!-- Single -->
               <li class="service-item service-item2">
                 <div class="service-content-box">
-                  <h4 class="h4 service-item-title">Communication and Collaboration: </h4>
+                  <h4 class="h4 service-item-title">
+                    Communication and Collaboration:
+                  </h4>
 
-<pre class="service-item-text service-item-text2 mb-0">
+                  <pre class="service-item-text service-item-text2 mb-0">
 <span class="doted"> -  </span>Effective Communication
 <span class="doted"> -  </span>Cross-Functional Collaboration
 <span class="doted"> -  </span>Client Relationship Management
@@ -658,16 +713,8 @@
 </pre>
                 </div>
               </li>
-
-
-
             </ul>
-
-
           </section>
-
-
-
 
           <section class="timeline">
             <div class="title-wrapper">
@@ -680,9 +727,11 @@
 
             <ol class="timeline-list">
               <li class="timeline-item">
-                <h4 class="h4 timeline-item-title">Chief information officer</h4>
+                <h4 class="h4 timeline-item-title">
+                  Chief information officer
+                </h4>
                 <p>Onesttech LLC</p>
-                <span>May 2011 to Current  (5 years 4 months )</span>
+                <span>May 2011 to Current (5 years 4 months )</span>
                 <p class="timeline-text mb-0">Banani, Dhaka, Bangladesh</p>
                 <pre>
  
@@ -696,27 +745,26 @@
                 <h4 class="h4 timeline-item-title">Chief Technology officer</h4>
 
                 <p>Sookh</p>
-                <span>May 2021 -  Present . 2 years 5 months</span>
+                <span>May 2021 - Present . 2 years 5 months</span>
 
-                <p class="timeline-text mb-0">
-                  Banani, Dhaka, Bangladesh
-                </p>
-<pre>
+                <p class="timeline-text mb-0">Banani, Dhaka, Bangladesh</p>
+                <pre>
 
 <strong class="mb-1">Responsibilities:</strong>
 <span class="doted"> -  </span>Technology Strategy and Innovation
 <span class="doted"> -  </span>Technical Leadership and Team Management
 <span class="doted"> -  </span>Infrastructure and Systems Management
 </pre>
-
               </li>
 
               <li class="timeline-item">
-                <h4 class="h4 timeline-item-title">Chief information officer</h4>
+                <h4 class="h4 timeline-item-title">
+                  Chief information officer
+                </h4>
                 <p>Imprint Dhaka Limited</p>
                 <span>7 years 4 months</span>
-                <p class="timeline-text mb-0"> Banani, Dhaka, Bangladesh </p>
-<pre>
+                <p class="timeline-text mb-0">Banani, Dhaka, Bangladesh</p>
+                <pre>
 
 <strong class="mb-1">Responsibilities:</strong>
 <span class="doted"> -  </span>Technology Strategy Development
@@ -726,10 +774,7 @@
 <span class="doted"> -  </span>Cybersecurity and Data Protection:
 </pre>
               </li>
-
-              
             </ol>
-
           </section>
 
           <section class="timeline">
@@ -747,15 +792,16 @@
                   Cisco Certified Network Associate (CCNA) Certification
                 </h4>
                 <span>American International University</span>
-                <p class="timeline-text">Completed in 2016 </p>
+                <p class="timeline-text">Completed in 2016</p>
               </li>
 
               <li class="timeline-item">
                 <h4 class="h4 timeline-item-title">
-                  Bachelor of Science in Computer Science and Engineering (B.Sc. CSE)
+                  Bachelor of Science in Computer Science and Engineering (B.Sc.
+                  CSE)
                 </h4>
                 <span>Stamford University Bangladesh</span>
-                <p class="timeline-text">Graduated in 2014 </p>
+                <p class="timeline-text">Graduated in 2014</p>
               </li>
 
               <li class="timeline-item">
@@ -773,8 +819,6 @@
                 <span>Mukul Niketon High School</span>
                 <p class="timeline-text">Graduated in 2007</p>
               </li>
-
-
             </ol>
           </section>
           <!-- <section class="skill">
@@ -914,1017 +958,7 @@
             </div>
 
             <ul class="project-list px-0">
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://school.onesttech.com/login" target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-schooled-school-management-system-laravel-script.avif"
-                      alt="finance"
-                      loading="lazy"
-                    />
-                  </figure>
-                  <h3 class="project-title">School</h3>
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://hrm.onesttech.com/sign-in" target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="https://codecanyon.img.customer.envatousercontent.com/files/467498319/banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=f63ed7ac17516da4b922d3c512c0f63e"
-                      alt="finance"
-                      loading="lazy"
-                    />
-                  </figure>
-                  <h3 class="project-title">HRM</h3>
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://drive.google.com/file/d/1GOXXpkjsaM9bjVZvaoRJc0AvlD0puwhZ/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-mobile-app.avif"
-                      alt="orizon"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">lms app</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://lms.onesttech.com/sign-in" target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="assets/images/figma/Thumbnail-LMS.png"
-                      alt="fundo"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">lms web</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://crmv1.onestweb.com/login
-                " target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-crm-customer-relation-management-system.avif"
-                      alt="brawlhalla"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">crm web</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1Y8dYOVlGA6cBvdGXIl-qV4FQ281yAeS6/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-crm-multiple-platform-crm-mobile-application.avif"
-                      alt="dsm."
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">crm app</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1E8Zgxot44Ra0v7n448pGdUnhQSbJEdfe/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/chat-calling-live-social-media-ios-android-application.avif"
-                      alt="metaspark"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Chat + Calling </h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/15_lwHuYgRRwQ8Cy72_fQF5MqOtOe_xRN/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/flutter-delivery-man-ui-kit.avif"
-                      alt="summary"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Delivery Man</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1btv2uGNraS4U4TqEf9cNS92rz6uaJ1gX/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/branding-advertising-moving-billboard-flutter-and-web-application.avif"
-                      alt="task manager"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">adgari</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1DH37Jv1xwWCOEI7aPQB3oujAviRi3uH4/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/hrm-qr-attendance.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">QR Attendance </h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/14SyZpfdNXLwebbCWUM57h_GJcKYKNkuo/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onex-club-multi-purpose-flutter-app.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Club </h3>
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1Vw2Se_HcX6l3OgvQDIf3mdUVdG2D0-NV/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/flutter-news-and-magazine-app-ui-template.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">news magazine</h3>
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://grocery.onesttech.com" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/multipurpose-and-multivendor-ecommerce-app-web-admin-panel.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">eCommerce Web & App</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1b1srfsNv1zuAuomNk-1J1dlRfMNHEfI3/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/multipurpose-and-multivendor-ecommerce-app-web-admin-panel.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">eCommerce </h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1DiQ38POvS4Wn9q-5HI8TFcJCx3vDNA7j/view?usp=drive_link" target="_blank">
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/multi-vendor-pharmacy-ecommerce-app-ui-kit.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">pharmacy</h3>
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://smart-food-customer.vercel.app/#/" target="_blank"> 
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">food menu Web & Mobile</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://onqueuewebadmin.vercel.app/#/" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/queue-management-system-flutter-android-ios-flutter-web.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Queue Management System</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://ecom.onesttech.com/" target="_blank"> 
-                  <figure class="project-img">
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">ecommerce</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://drive.google.com/file/d/1PVGxPQmwKBQSDOVLEQCRx2vKuw1Gn58o/view" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Seller APP</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://drive.google.com/file/d/1KhrYFUpMGo_tpR0QiPOxq5-DH0uC5IOZ/view?usp=drive_link" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/tailor-all-in-one-app-for-tailor-and-customer-management.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">tailor web & mobile</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://drive.google.com/file/d/1l6_Po6DP5GZxu6C3ht4J_grheXwS5ju9/view" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/school-inspection-report-flutter-application.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">school-inspection  web & app</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://landlord.onestweb.com/" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/property-management-apartment-rent-collection-tenant-and-invoice-bill.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Property Management web & app</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="https://www.dhakdol.com" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/offline-music-app-online-music-streaming-and-podcast.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">music-app</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://ecom.onesttech.com" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/complete-multi-vendor-ecommerce-mobile-app-web-weller-and-admin-panel.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">multi-vendor</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="https://login.onesttech.com" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="https://onesttech.com/frontend/assets/images/product/onest-ultra-11-responsive-login-and-registration-form.avif"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">Login and Registration Form</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="web application"
-              >
-                <a href="assets/images/odialer/oDialer _business proposal.pdf" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="assets/images/figma/Thumbnail-Odialer.png"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">oDialer</h3>
-
-                  <p class="project-category">web application</p>
-                </a>
-              </li>
-
-
-
-             
-              <li  class="project-item active" data-filter-item   data-category="mobile application">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#party-app"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/app/party.avif"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Party time </h3>
-                      <p class="project-category">app</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade how" id="party-app" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <!-- Descriptins -->
-                          <div class="container">
-                            <div class="row justify-content-center">
-                              <div class="col-lg-6">
-                                <img src="assets/images/app/party.avif" alt="" class="w-100 mb-4">
-                              
-
-                                  <h4 class="text-pear-modal mb-3">Demo Party</h4>
-                                  <a href="https://drive.google.com/drive/folders/16I7oem5xfba-KoqMq641pFgmXPNGHR-z">Download Apk Here</a>
-
-                                  <h6 class="text-pear-modal mb-3 mt-3">Login1</h6>
-                                  <p class="text-pear-modal m-0"><a href="#">email: anup@gmail.com</a></p>
-                                  <p class="text-pear-modal m-0"><a href="#">password:12345678</a></p>
-                                  <h3></h3><hr>
-
-                                  <h6 class="text-pear-modal mb-3 mt-3">Login2</h6>
-                                  <p class="text-pear-modal m-0"><a href="#">email: dev@gmail.com</a></p>
-                                  <p class="text-pear-modal m-0"><a href="#">password:12345678</a></p>
-                                  <h3></h3>
-                                  
-                                  <br>
-                                  <img src="assets/images/app/party-preview.png"
-                                          alt="Image" class="w-100"><br><br>
-                                    <!--  -->
-                              </div>
-                            </div>
-                          </div>
-                          <!-- Descriptions -->
-                         
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-         
-              <li  class="project-item active" data-filter-item   data-category="mobile application">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#mobile-one"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/app/queue-privew.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">queue</h3>
-                      <p class="project-category">app</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade how" id="mobile-one" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <!-- Descriptins -->
-                          <div class="container">
-                            <div class="row justify-content-center">
-                              <div class="col-lg-6">
-                                <img src="assets/images/app/queue-privew.png" alt="" class="w-100 mb-4">
-                              
-                                  <p class="text-pear-modal mb-2">Introducing On Queue - A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient
-                                    experience for both customers and administrators. With a wide array of features, our system aims to transform the way
-                                    queues are handled, ensuring a hassle-free and convenient process for everyone involved.</p>
-                                
-                                  <h4 class="mb-3 text-pear-modal">Key Features:</h4>
-                                  <ul class="mb-3">
-                                     <li class="text-pear-modal">Real-time Token Tracking: Customers can easily check their real-time token status directly from the Queue list,
-                                      giving them complete visibility and control over their position.</li>
-                                     <li class="text-pear-modal">Create New Tokens: With the "Create Token" option, customers can generate new tokens quickly and effortlessly,
-                                      eliminating the need for physical tickets.</li>
-                                     <li class="text-pear-modal">QR Code Integration: Generating tokens becomes even more convenient as customers can create new tokens by simply
-                                      scanning a QR code using a QR scanner.</li>
-                                     <li class="text-pear-modal">Comprehensive Information: Our system provides customers with all the necessary information they need, including
-                                      their ticket number, counter number, and scheduled time, ensuring a clear understanding of their queue status.</li>
-                                     <li class="text-pear-modal">Flexible Time and Date: Customers have the flexibility to set their preferred time and date for creating tokens,
-                                      accommodating their schedules and preferences.</li>
-                                     <li class="text-pear-modal">Streamlined Token Creation: Creating new tokens is a breeze, thanks to our user-friendly interface that ensures a
-                                      smooth and hassle-free process.</li>
-                                     <li class="text-pear-modal">Real-time Queue Token List: A real-time queue token list keeps customers informed about their position in the
-                                      queue, minimising uncertainty and wait times.</li>
-                                     <li class="text-pear-modal">Upcoming Token and Details: Users can easily access information about upcoming tokens, allowing them to plan
-                                      accordingly and stay well-informed.</li>
-                                  </ul>
-                                
-                                  <h4 class="mb-3 text-pear-modal">Administrative Features:</h4>
-                                  <ul>
-                                     <li class="text-pear-modal">Efficient Token Management: Our system empowers administrators to manage various types of tokens, such as
-                                      current, upcoming, and recalled tokens, streamlining the overall queue management process.</li>
-                                     <li class="text-pear-modal">Digital Queue Board: Welcome to our Digital Queue Board – an ultimate solution for queue management. The
-                                      futuristic system offers a real-time ticket monitoring experience, providing users with estimated wait times and
-                                      their corresponding serial numbers.</li>
-                                  </ul>
-                                
-                                  <p class="text-pear-modal mb-3">With our Queue Management System, embrace a new era of efficiency and customer satisfaction. Enjoy a streamlined and
-                                    organized queue experience, providing your customers with the best user-experience possible. Say goodbye to long wait
-                                    times and disorganization, and step into the future of queue management with us.</p>
-                        
-                                  <h4 class="text-pear-modal">Admin Dashboard</h4>
-                                  <p class="text-pear-modal"><a href="https://onqueuewebadmin.vercel.app/#/">https://onqueuewebadmin.vercel.app/#/</a></p>
-                                  <h3></h3>
-                                  <h4 class="text-pear-modal">Leaderboard</h4>
-                                  <p class="text-pear-modal"><a href="https://onqueuewebleaderboad.vercel.app/#/">https://onqueuewebleaderboad.vercel.app/#/</a></p>
-                                  <h3></h3>
-                                  
-                                  <h4 class="text-pear-modal mb-3">Admin Demo App: <a href="https://drive.google.com/file/d/1BigLfYW1K7Xu92sgHfsPbrsudUzNDWfF/view?usp=sharing" class="mt-3"><img width="150px" src="https://codecanyon-projects.s3.ap-southeast-1.amazonaws.com/E-Commerce/Android-Badge_Black.png" alt="App Download"></a></h4>
-                                  <h4 class="text-pear-modal mb-3">User Demo App: <a href="https://drive.google.com/file/d/18C0X7WbRx-j3yFJQcs4zo6pV3s6Gm7ZL/view?usp=sharing" class="mt-3"><img width="150px" src="https://codecanyon-projects.s3.ap-southeast-1.amazonaws.com/E-Commerce/Android-Badge_Black.png" alt="App Download"></a></h4>
-                                  
-                                  <br>
-                                  <img src="https://codecanyon-projects.s3.ap-southeast-1.amazonaws.com/on_queue/descriptions_Image_3-8-2023.png"
-                                          alt="Image" class="w-100"><br><br>
-                                    <!--  -->
-                              </div>
-                            </div>
-                          </div>
-                          <!-- Descriptions -->
-                         
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              
-
-
-              <li
-                class="project-item active"
-                data-filter-item
-                data-category="mobile application"
-              >
-                <a href="assets/images/odialer/oDialer _business proposal.pdf" target="_blank"> 
-                  <figure class="project-img">
-
-                    <img
-                      src="assets/images/figma/Thumbnail-Odialer.png"
-                      alt="arrival"
-                      loading="lazy"
-                    />
-                  </figure>
-
-                  <h3 class="project-title">oDialer</h3>
-
-                  <p class="project-category">mobile application</p>
-                </a>
-              </li>
-
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#one"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-LMS.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">LMS - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="one" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="https://lms.onestweb.com/assets/images/landing/home1.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#two"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Adgari.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Adgari - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="two" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/Adgari.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#three"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-HRM.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">HRM - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="three" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/HRM.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#four"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-CRM.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">CRM - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="four" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/CRM.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#five"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Landlord.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Landlord - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="five" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/Landlord.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#six"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Schooled.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Schooled - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="six" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/Schooled.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#seven"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Music.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Music - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="seven" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/Music.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#eight"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Fundrising.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Fundrising - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="eight" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-
-                          <img src="assets/images/figma/Fundrising.png" alt="" class="w-100">
-
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-              
-              <!-- Figma -->
-              <li  class="project-item active" data-filter-item   data-category="ui-ux design">
-                  <button type="button" data-bs-toggle="modal" data-bs-target="#nine"> 
-                      <figure class="project-img">
-                        <img
-                          src="assets/images/figma/Thumbnail-Blood Donation.png"
-                          alt="arrival"
-                          loading="lazy"
-                        />
-                      </figure>
-                      <h3 class="project-title">Blood-Donation - UI/UX Desing</h3>
-                      <p class="project-category">Figma Design</p>
-                  </button>
-          
-                  <!-- Modal -->
-                  <div class="modal fade" id="nine" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                    <div class="modal-dialog modal-fullscreen">
-                      <div class="modal-content">
-                        <div class="modal-header">
-                          <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                        </div>
-                        <div class="modal-body">
-                          <img src="assets/images/figma/Blood-Donation.png" alt="" class="w-100">
-                        </div>
-                        <div class="modal-footer">
-                          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-              </li>
-
+              <!-- JSOn Data Load -->
             </ul>
           </section>
         </article>
@@ -1940,9 +974,11 @@
 
           <section class="blog-posts">
             <ul class="blog-posts-list" id="blogList">
-
               <li class="blog-post-item">
-                <a href="https://medium.com/@babu.cse46/functional-programming-vs-object-oriented-programming-oop-bf0ef12adb1b"  target="_blank">
+                <a
+                  href="https://medium.com/@babu.cse46/functional-programming-vs-object-oriented-programming-oop-bf0ef12adb1b"
+                  target="_blank"
+                >
                   <figure class="blog-banner-box">
                     <img
                       src="https://miro.medium.com/v2/resize:fit:700/1*3QiwDFlESkyEiBC_wL-awA.png"
@@ -1953,7 +989,7 @@
 
                   <div class="blog-content">
                     <div class="blog-meta">
-                      <p class="blog-category">Design</p>
+                      <p class="blog-category mb-0">Design</p>
 
                       <span class="dot"></span>
 
@@ -1961,18 +997,23 @@
                     </div>
 
                     <h3 class="h3 blog-item-title">
-                      Functional Programming VS Object-Oriented Programming (OOP)
+                      Functional Programming VS Object-Oriented Programming
+                      (OOP)
                     </h3>
 
                     <p class="blog-text">
-                      In the realm of software development, programming paradigms play a crucial role in shaping the...
+                      In the realm of software development, programming
+                      paradigms play a crucial role in shaping the...
                     </p>
                   </div>
                 </a>
               </li>
 
               <li class="blog-post-item">
-                <a href="https://medium.com/@babu.cse46/how-the-inception-of-chatgpt-revolutionized-the-world-1137c23f5a61" target="_blank">
+                <a
+                  href="https://medium.com/@babu.cse46/how-the-inception-of-chatgpt-revolutionized-the-world-1137c23f5a61"
+                  target="_blank"
+                >
                   <figure class="blog-banner-box">
                     <img
                       src="https://miro.medium.com/v2/resize:fit:700/1*7vRK4pB3Xx3RMyce-Qs-Fw.png"
@@ -1983,7 +1024,7 @@
 
                   <div class="blog-content">
                     <div class="blog-meta">
-                      <p class="blog-category">Design</p>
+                      <p class="blog-category mb-0">Design</p>
 
                       <span class="dot"></span>
 
@@ -1995,14 +1036,20 @@
                     </h3>
 
                     <p class="blog-text">
-                      Picture this: I found myself standing at the crossroads of countless inquiries, seeking answers that would satiate my thirst for knowledge. It was then that ChatGPT entered the stage.....
+                      Picture this: I found myself standing at the crossroads of
+                      countless inquiries, seeking answers that would satiate my
+                      thirst for knowledge. It was then that ChatGPT entered the
+                      stage.....
                     </p>
                   </div>
                 </a>
               </li>
 
               <li class="blog-post-item">
-                <a href="https://medium.com/@babu.cse46/my-mern-stack-roadmap-f8f1eb3a80b4"  target="_blank">
+                <a
+                  href="https://medium.com/@babu.cse46/my-mern-stack-roadmap-f8f1eb3a80b4"
+                  target="_blank"
+                >
                   <figure class="blog-banner-box">
                     <img
                       src="https://miro.medium.com/v2/resize:fit:700/1*dMW4RcyGhEDQwgFRRO4oLg.jpeg"
@@ -2013,7 +1060,7 @@
 
                   <div class="blog-content">
                     <div class="blog-meta">
-                      <p class="blog-category">Design</p>
+                      <p class="blog-category mb-0">Design</p>
 
                       <span class="dot"></span>
 
@@ -2023,12 +1070,12 @@
                     <h3 class="h3 blog-item-title">My MERN-Stack Roadmap…🚀</h3>
 
                     <p class="blog-text">
-                      When I first delved into web development, my focus quickly shifted towards learning about the MERN stack.
+                      When I first delved into web development, my focus quickly
+                      shifted towards learning about the MERN stack.
                     </p>
                   </div>
                 </a>
               </li>
-
             </ul>
           </section>
         </article>
@@ -2057,7 +1104,13 @@
             <h3 class="h3 form-title">Contact Form</h3>
             <div id="response-message"></div>
 
-            <form action="mail.php" class="form" data-form method="POST" id="contact-form">
+            <form
+              action="mail.php"
+              class="form"
+              data-form
+              method="POST"
+              id="contact-form"
+            >
               <div class="input-wrapper">
                 <input
                   type="text"
@@ -2092,121 +1145,311 @@
               </button>
             </form>
           </section>
-
         </article>
 
+        <!-- Footer -->
         <article class="active footer">
-          <p class="mb-0">© 2023 <a href="https://jahangir-alam.me/">jahangir-alam</a>. All rights reserved.</p>
+          <p class="mb-0">
+            © 2023 <a href="https://jahangir-alam.me/">jahangir-alam</a>. All
+            rights reserved.
+          </p>
         </article>
-
       </div>
     </main>
 
-
-    <a href="https://api.whatsapp.com/send?phone=8801810022230" target="_blank" id="contact-whatsApp">
-      <img src="assets/images/whatsApp.png" alt="">
+    <a
+      href="https://api.whatsapp.com/send?phone=8801810022230"
+      target="_blank"
+      id="contact-whatsApp"
+    >
+      <img src="assets/images/whatsApp.png" alt="" />
     </a>
 
+    <!-- Project details modal  -->
+    <div
+      class="modal fade how"
+      id="projectDetailsModal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <!-- Descriptins -->
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-lg-6">
 
-    <!--
-    - custom js link
-  -->
+                
 
-    <script src="./assets/js/script.js"></script>
+                </div>
+              </div>
+            </div>
+            <!-- Descriptions -->
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-secondary"
+              data-bs-dismiss="modal"
+            >
+              Close
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End-of Project details modal  -->
+
+    <script
+      src="https://code.jquery.com/jquery-3.7.1.min.js"
+      integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+      crossorigin="anonymous"
+    ></script>
+
     <!--
     - ionicon link
   -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-    <script type="module"src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-    <script  nomodule   src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js" ></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
 
     <script>
-    // Define the URL of the JSON file
-    const jsonUrl = 'blog.json';
+      $(document).ready(async function () {
+        try {
+          const response = await fetch("./assets/data/projects.json");
+          const data = await response.json();
+          let content = "";
 
-    // Select the ul element where you want to append the data
-    const ul = document.getElementById('blogList');
+          const categories = data
+            .map((item) => ({
+              id: item.categoryId,
+              name: item.category,
+            }))
+            .filter((category, index, self) => {
+              return index === self.findIndex((c) => c.id === category.id);
+            });
 
-    // Fetch the JSON data
-    fetch(jsonUrl)
-      .then(response => response.json())
-      .then(data => {
-        // Loop through the JSON data and create list items
-        data.forEach(item => {
-          const li = document.createElement('li');
-          li.classList.add('blog-post-item');
+          let categoryContent =
+            "<li class='filter-item'> <button class='active' data-filter-btn>All</button></li>";
 
-          const a = document.createElement('a');
-          a.href = item.url;
-          a.target = '_blank';
+          categories.forEach((item) => {
+            categoryContent += `<li class="filter-item">
+                <button data-filter-btn>${item.name}</button>
+              </li>`;
+          });
 
-          const figure = document.createElement('figure');
-          figure.classList.add('blog-banner-box');
+          $(".filter-list").html(categoryContent);
 
-          const img = document.createElement('img');
-          img.src = item.image;
-          img.alt = item.imageAlt;
-          img.loading = 'lazy';
+          data.forEach((item) => {
+            if (item.hasModal) {
+              content =
+                content +
+                ` <li
+                class="project-item active"
+                data-filter-item
+                data-category="${item.category}"
+              >
+                <button
+                  class="projectDetailsBtn"
+                  type="button"
+                  projectId="${item.id}"
+                >
+                  <figure class="project-img">
+                    <img
+                      src="${item.thumbnail}"
+                      alt="arrival"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 class="project-title">${item.name}</h3>
+                  <p class="project-category">${item.category}</p>
+                </button>
 
-          figure.appendChild(img);
+              </li>`;
+            } else {
+              content =
+                content +
+                `<li
+                class="project-item active"
+                data-filter-item
+                data-category="${item.categoryId}"
+              >
+                <a href="${item.url}" target="_blank">
+                  <figure class="project-img">
+                    <img
+                      src="${item.thumbnail}"
+                      alt="finance"
+                      loading="lazy"
+                    />
+                  </figure>
+                  <h3 class="project-title">${item.name}</h3>
+                  <p class="project-category">${item.category}</p>
+                </a>
+              </li>`;
+            }
+          });
 
-          const content = document.createElement('div');
-          content.classList.add('blog-content');
-
-          const meta = document.createElement('div');
-          meta.classList.add('blog-meta');
-
-          const category = document.createElement('p');
-          category.classList.add('blog-category');
-          category.textContent = item.category;
-
-          const dot = document.createElement('span');
-          dot.classList.add('dot');
-
-          const time = document.createElement('time');
-          time.setAttribute('datetime', item.date);
-          time.textContent = item.date;
-
-          meta.appendChild(category);
-          meta.appendChild(dot);
-          meta.appendChild(time);
-
-          const title = document.createElement('h3');
-          title.classList.add('h3', 'blog-item-title');
-          title.textContent = item.title;
-
-          const text = document.createElement('p');
-          text.classList.add('blog-text');
-          text.textContent = item.description;
-
-          content.appendChild(meta);
-          content.appendChild(title);
-          content.appendChild(text);
-
-          a.appendChild(figure);
-          a.appendChild(content);
-
-          li.appendChild(a);
-          ul.appendChild(li);
-        });
-      })
-      .catch(error => {
-        console.error('Error fetching JSON:', error);
+          $(".project-list").html(content);
+        } catch (error) {
+          console.log(error);
+        }
       });
 
+      //Filer portfolio custom
+      $(".filter-list").on("click", "[data-filter-btn]", function () {
+        let selectedValue = this.innerText.toLowerCase();
+        selectValue.innerText = this.innerText;
+        const anotherfilterItems = $("[data-filter-item]");
 
+        anotherfilterItems.each(function () {
+          const category = $(this).attr("data-category");
+          if (selectedValue === "all" || selectedValue === category) {
+            $(this).addClass("active");
+          } else {
+            $(this).removeClass("active");
+          }
+        });
 
+        $(".filter-item button").removeClass("active");
+        this.classList.add("active");
+      });
+      // Filer portfolio custom
 
+    </script>
 
+    <script>
+      $(".project-list").on("click", ".projectDetailsBtn", async function () {
+        try {
+          const projectId = $(this).attr("projectId");
+          $("#projectDetailsModal").modal("show");
 
-    // Mail
+          // Fetch the JSON data
+          const response = await fetch("./assets/data/projects.json");
+
+          // Check if the response status is OK (status code 200)
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+
+          // Parse the response as JSON
+          const data = await response.json();
+
+          // Find the project details
+          const [projectDetails] = data.filter((item) => item.id === projectId);
+
+          // Set the modal body content
+          $("#projectDetailsModal .modal-body").html(
+            projectDetails.description
+          );
+        } catch (error) {
+          console.error("Error:", error);
+        }
+      });
+    </script>
+
+    <script>
+      // Define the URL of the JSON file
+      const jsonUrl = "blog.json";
+
+      // Select the ul element where you want to append the data
+      const ul = document.getElementById("blogList");
+
+      // Fetch the JSON data
+      fetch(jsonUrl)
+        .then((response) => response.json())
+        .then((data) => {
+          // Loop through the JSON data and create list items
+          data.forEach((item) => {
+            const li = document.createElement("li");
+            li.classList.add("blog-post-item");
+
+            const a = document.createElement("a");
+            a.href = item.url;
+            a.target = "_blank";
+
+            const figure = document.createElement("figure");
+            figure.classList.add("blog-banner-box");
+
+            const img = document.createElement("img");
+            img.src = item.image;
+            img.alt = item.imageAlt;
+            img.loading = "lazy";
+
+            figure.appendChild(img);
+
+            const content = document.createElement("div");
+            content.classList.add("blog-content");
+
+            const meta = document.createElement("div");
+            meta.classList.add("blog-meta");
+
+            const category = document.createElement("p");
+            category.classList.add("blog-category mb-0");
+            category.textContent = item.category;
+
+            const dot = document.createElement("span");
+            dot.classList.add("dot");
+
+            const time = document.createElement("time");
+            time.setAttribute("datetime", item.date);
+            time.textContent = item.date;
+
+            meta.appendChild(category);
+            meta.appendChild(dot);
+            meta.appendChild(time);
+
+            const title = document.createElement("h3");
+            title.classList.add("h3", "blog-item-title");
+            title.textContent = item.title;
+
+            const text = document.createElement("p");
+            text.classList.add("blog-text");
+            text.textContent = item.description;
+
+            content.appendChild(meta);
+            content.appendChild(title);
+            content.appendChild(text);
+
+            a.appendChild(figure);
+            a.appendChild(content);
+
+            li.appendChild(a);
+            ul.appendChild(li);
+          });
+        })
+        .catch((error) => {
+          console.error("Error fetching JSON:", error);
+        });
+
+      // Mail
       document.addEventListener("DOMContentLoaded", function () {
-      const contactForm = document.getElementById("contact-form");
-      const responseMessage = document.getElementById("response-message");
-      contactForm.addEventListener("submit", function (e) {
-        e.preventDefault();
+        const contactForm = document.getElementById("contact-form");
+        const responseMessage = document.getElementById("response-message");
+        contactForm.addEventListener("submit", function (e) {
+          e.preventDefault();
 
-        const formData = new FormData(contactForm);
+          const formData = new FormData(contactForm);
 
           fetch("mail.php", {
             method: "POST",
@@ -2218,14 +1461,14 @@
               contactForm.reset(); // Clear the form after submission
             })
             .catch((error) => {
-              responseMessage.innerHTML = "An error occurred. Please try again.";
+              responseMessage.innerHTML =
+                "An error occurred. Please try again.";
               console.error(error);
             });
         });
       });
-    // End-of mail
+    </script>
 
-  </script>
+    <script src="./assets/js/script.js"></script>
   </body>
 </html>
-

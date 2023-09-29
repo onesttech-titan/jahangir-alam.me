@@ -100,14 +100,14 @@
         "title": "Queue Management System – Flutter v3.10 Android, IOS & Flutter Web ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Introducing On Queue – A Queue Management System that designed to revolutionise how you manage queues, ensuring a seamless and efficient experience for both customers and administrators. With a wide array of features, our system aims to transform the way queues are handled, ensuring a hassle-free and convenient process for everyone involved.",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img":"https://camo.envatousercontent.com/b7865529f9fd386112455c5ea77ced27b8f326b5/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f6f6e5f71756575652f6465736372697074696f6e735f496d6167655f332d382d323032332e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
@@ -166,29 +166,24 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-lms-online-learning-management-system-mobile-app.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "LMS - Online Learning Management System Mobile App",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "introducing Onest LMS – Onest LMS Mobile App is a comprehensive learning management system that includes a range of features for students to purchase online course and access course.",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/ec8cc532e6f6eb5edf0e3d1f45ad90d3398fa0ae/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f4c4d532f4c4d532532304164646f6e73253230706167652e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
-            },
-            {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "type": "Student",
+                "email": "student@onest.com",
+                "password": "123456"
             }
         ]
     },
@@ -261,28 +256,28 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/chat-calling-live-social-media-ios-android-application.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Chat + Calling + Live - Social media - iOS,Android Application ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Meet is a social media application that allows users to chat, make audio and video calls, and participate in live streams, all in one platform. The application will be available on both iOS and Android platforms, with a version number of 1.0.",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/4cedfd6ea8ae84f952da98bc447e6107ea36a56e/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f4f6e6573742532304d6565742f4f6e6573744d6565742d6465736372697074696f6e2e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
+                "type": "User one",
+                "email": "a1@gmail.com",
                 "password": "123123"
             },
             {
-                "type": "customer",
-                "email": "customer@test.com",
+                "type": "User Two",
+                "email": "a2@gmail.com",
                 "password": "123123"
             }
         ]
@@ -296,17 +291,17 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-delivery-man-ui-kit.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Flutter Delivery Man UI KIT ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Flutter Delivery Man UI KIT is likely a user interface kit developed using the Flutter framework for building mobile applications. It provides pre-designed and pre-coded UI elements for building an app for delivery management, potentially for delivery persons, businesses, or customers. The kit may include features such as order tracking, delivery scheduling, and notifications. ",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/912ce281a57a9948956d46b7336387ace96ff114/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f452d436f6d6d657263652f44656c6976657279426f792d6465736372697074696f6e2d696d6167652e6a7067"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
@@ -331,29 +326,34 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/branding-advertising-moving-billboard-flutter-and-web-application.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Branding & Advertising- Moving Billboard Flutter And Web Application ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Promote ads, banners or products nationally or internationally. If you have a transportation business that runs a good number of vehicles, you can hop in this business too. From start-up businesses to large brands, you can grow yours or others’ market in a very short period of time. And our software will help you to monitor and analyze improvements throughout the process. ",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/89e7d0bef4fd6059419ee293b3debb027b04001a/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f6164676172692f617072696c6164676172692e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
                 "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
+                "email": "admin@onesttech.com",
+                "password": "12345678"
             },
             {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "type": "Driver",
+                "email": "driver@onesttech.com",
+                "password": "12345678"
+            },
+            {
+                "type": "Client",
+                "email": "client@onesttech.com",
+                "password": "12345678"
             }
         ]
     },
@@ -366,29 +366,44 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/hrm-qr-attendance.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "HRM QR Attendance ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "HRM software is needed to streamline HR processes, improve data management, enhance decision-making, and foster collaboration. It automates and centralizes HR tasks, providing valuable insights and analytics, and facilitating communication and teamwork among HR professionals, managers, and employees.",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/0f9add949b8657ca9f52030b38fce9db4111867d/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f32326d617961616161616161612e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
+                "type": "App Staff Login",
+                "email": "staff@onesttech.com",
+                "password": "12345678"
             },
             {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "type": "App HR Login",
+                "email": "hr@onesttech.com",
+                "password": "12345678"
+            },
+            {
+                "type": "Admin Login",
+                "email": "admin@onesttech.com",
+                "password": "12345678"
+            },
+            {
+                "type": "Staff login(For android)",
+                "email": "staff@onesttech.com",
+                "password": "12345678"
+            },
+            {
+                "type": "Staff login(For IOS)",
+                "email": "staff@onesttech.com",
+                "password": "12345678"
             }
         ]
     },
@@ -401,28 +416,23 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onex-club-multi-purpose-flutter-app.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Onex Club multi-purpose Flutter App ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Welcome to Onex Club App. Onex Club is a mobile app which run under flutter platform that used for your own club application. With powerful features and beautiful design and Responsive Admin Panel can manage Matches, players ,users ,notifications ,rankings and others. ",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/d9c6a789d02a411d167236c451a20b09a6a4b304/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f436c75622f4465736372697074696f6e5f696d6167655f312e6a7067"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
-            },
-            {
-                "type": "customer",
-                "email": "customer@test.com",
+                "type": "User",
+                "email": "01123456789",
                 "password": "123123"
             }
         ]
@@ -436,12 +446,18 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-news-and-magazine-app-ui-template.avif",
 
+        
+        "title": "Flutter News & Magazine App UI Template ",
+        "appStore" : "https://onesttech.com/",
+        "playStore" : "https://onesttech.com/",
+        "short_description": "One of the most popular apps for news is the Flutter UI Kit for News, Blog and Article type apps. The complete UI Kit containing all widgets and snippets you need to create a News app. ",
+        "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/456e78de430faacf11534c0435dd47652881cef2/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f4e6577732f6e6577732d6465736372697074696f6e2d696d616765322e6a7067"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
@@ -472,34 +488,29 @@
         "id": "project-17",
         "category": "mobile application",
         "categoryId": "mobile application",
-        "name": "eCommerce app",
+        "name": "eCommerce Multi vendor app",
         "hasModal": true,
         "url": "",
-        "thumbnail": "https://onesttech.com/frontend/assets/images/product/multipurpose-and-multivendor-ecommerce-app-web-admin-panel.avif",
+        "thumbnail": "https://codecanyon.img.customer.envatousercontent.com/files/422948040/UserApp-Banner.png?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=681cb5b30813ccb4fab6d090c3fe3bc6",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Complete Multi-vendor eCommerce - Mobile App, Web, Seller and Admin Panel ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "A multi-vendor eCommerce platform allows multiple vendors to sell their products on a single platform, rather than each vendor having to create and maintain their own separate online store. This can provide several benefits for both vendors and customers. ",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/e74362865ea9ae627850ca3a03bdccfbd2bda3da/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f452d436f6d6d657263652f45636f6d2532304465736372697074696f6e253230496d6167652e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
-            },
-            {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "type": "User",
+                "email": "01903273865",
+                "password": "12345678"
             }
         ]
     },
@@ -512,17 +523,17 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/multi-vendor-pharmacy-ecommerce-app-ui-kit.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Multi Vendor Pharmacy Ecommerce App UI kit with Google Map Complete Address ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Multivendor pharmacy e-commerce Super Store is a Multi-Vendor online shopping app. Its contain advance feature like voice search, autosuggestion, intelligence search, live notification, auto-assign, etc.",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/c41788aab3da40f889b1efed4b4d029e245a17be/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f4f6e6573745f506861726d612f4f6e6573742d706861726d612d6170702d70726573656e746174696f6e2e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
@@ -547,17 +558,17 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/flutter-smart-food-menu-android-ios-web-desktop.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Flutter smart food menu - Android, IOS, Web, Desktop ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/622697d8ebee01ce126095a9c45ea731d67870b9/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f323125323061756767674465736372697074696f6e253230496d6167652e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
@@ -612,29 +623,24 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/onest-ecommerce-seller-app-android-ios.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Onest eCommerce Seller APP - Android, IOS ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
-        "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
+        "short_description": "Introducing Onest Seller – A multi-vendor eCommerce platform allows multiple vendors to sell their products on a single platform, rather than each vendor having to create and maintain their own separate online store. This can provide several benefits for both vendors:",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/b3af9eb85b5534a2f8d5c956f9d163840db4d446/68747470733a2f2f63616d6f2e656e7661746f75736572636f6e74656e742e636f6d2f663835353861313661393662373064343665353031353361613263646263663665346439393863652f363837343734373037333361326632663633366636343635363336313665373936663665326437303732366636613635363337343733326537333333326536313730326437333666373537343638363536313733373432643331326536313664363137613666366536313737373332653633366636643266343532643433366636643664363537323633363532663434363537333633373236393730373436393666366535663639366436313637363535663331333132643337326433323330333233333265373036653637"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
                 "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
-            },
-            {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "email": "01970329095",
+                "password": "12345678"
             }
         ]
     },
@@ -682,29 +688,29 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/property-management-apartment-rent-collection-tenant-and-invoice-bill.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Party time - Organize Events| Event Booking |Event Create |Buy Tickets Android & IOS application ",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
         "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/cc3196022ca537f18ce7b9fc69e0deb1ad239431/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f50617274795f6170702f4465736372697074696f6e735f496d6167652e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [
             {
-                "type": "admin",
-                "email": "test@test.com",
-                "password": "123123"
+                "type": "User 1",
+                "email": "anup@gmail.com",
+                "password": "12345678"
             },
             {
-                "type": "customer",
-                "email": "customer@test.com",
-                "password": "123123"
+                "type": "User 2",
+                "email": "dev@gmail.com",
+                "password": "12345678"
             }
         ]
     },
@@ -728,17 +734,17 @@
         "url": "",
         "thumbnail": "https://onesttech.com/frontend/assets/images/product/offline-music-app-online-music-streaming-and-podcast.avif",
 
-        "title": "Onest CRM - Multiple Platform CRM Mobile Application",
+        "title": "Offline Music app- Online Music Streaming & Podcast",
         "appStore" : "https://onesttech.com/",
         "playStore" : "https://onesttech.com/",
         "short_description": "Strong analytical skills | Attention to detail | Teamwork skills | Interpersonal skills | Flexibility | Adaptability | Initiative",
         "long_description": "",
         "description_images": [
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": "https://camo.envatousercontent.com/278896eac7200c7c957ce81e39c8b8b9920a1aaa/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f4468616b44686f6c2f5072656d69756d2d46656174757265732d4d757369632e706e67"
             },
             {
-                "img": "https://camo.envatousercontent.com/8bcf5f2199c01d36aad68f88e57f2002d4f319f8/68747470733a2f2f636f646563616e796f6e2d70726f6a656374732e73332e61702d736f757468656173742d312e616d617a6f6e6177732e636f6d2f68726d2d7765622f536570742532305370656369616c2532304f66666572253230322e706e67"
+                "img": ""
             }
         ],
         "login": [

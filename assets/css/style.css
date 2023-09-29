@@ -2141,3 +2141,9 @@ b, strong {
 }
 
 /* End-of Mouse Coursor Event */
+
+
+
+.modal-content {
+	background: #232323;
+}

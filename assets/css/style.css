@@ -2099,3 +2099,52 @@ textarea.form-input::-webkit-resizer { display: none; }
 .text-pear-modal {
 	color: #000 !important;
 }
+
+.modal-body h1 {
+	font-size: 26px;
+	font-weight: 600;
+	margin-bottom: 24px;
+}
+
+.modal-body h2 {
+	color: #212529 !important;
+	font-size: 20px;
+	border-bottom: 1px solid #ddd;
+	padding-bottom: 13px;
+	margin-bottom: 23px;
+	text-transform: capitalize;
+	font-weight: 600;
+}
+.modal-body img {
+	margin-bottom: 20px;
+}
+
+b, strong {
+	font-weight: 600;
+}
+
+
+/* Mouse Coursor Event Modal Style */
+.modal-coursor::before{
+  position: relative;
+  display: none;
+}
+.show.modal-coursor::before{
+  content: 'asdfasdf';
+  cursor: url("https://payday.gainhq.com/images/close-cursor-light.png"), auto !important;
+  padding-right: 17px;
+  display: block;
+}
+.modal-dialog {
+	cursor: default !important;
+	max-height: calc(100% - 18rem) !important;
+}
+
+/* End-of Mouse Coursor Event */
+
+
+
+.modal-content {
+	/* background: #232323; */
+}
+

@@ -94,16 +94,14 @@
               <div class="contact-info">
                 <p class="contact-title">email</p>
 
-                <a href="jahangiralam@gmail.com" class="contact-link"
-                  >jahangiralam@gmail.com</a
-                >
+                <a href="mailto:babu.cse46@gmail.com" class="contact-link">babu.cse46@gmail.com</a>
+                <a href="mailto:jahangir@imprint.com" class="contact-link">jahangir@imprint.com</a>
+                <a href="mailto:jahangir@onesttech.com" class="contact-link">jahangir@onesttech.com</a>
+                <a href="mailto:jahangir@sookh.com" class="contact-link">jahangir@sookh.com</a>
               </div>
             </li>
 
             <li class="contact-item">
-              <!-- <div class="icon-box">
-                <ion-icon name="calendar-outline"></ion-icon>
-              </div> -->
 
               <div class="contact-info">
                 <p class="contact-title">Skype</p>
@@ -112,10 +110,6 @@
             </li>
 
             <li class="contact-item">
-              <!-- <div class="icon-box">
-                <ion-icon name="location-outline"></ion-icon>
-              </div> -->
-
               <div class="contact-info">
                 <p class="contact-title">Location</p>
 
@@ -821,78 +815,7 @@
               </li>
             </ol>
           </section>
-          <!-- <section class="skill">
-            <h3 class="h3 skills-title">My skills</h3>
-
-            <ul class="skills-list content-card">
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">web application development</h5>
-                  <data value="90">90%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 90%"></div>
-                </div>
-              </li>
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">mobile application development</h5>
-                  <data value="80">80%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 80%"></div>
-                </div>
-              </li>
-
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">Graphic designing (UI/UX)</h5>
-                  <data value="75">75%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 75%"></div>
-                </div>
-              </li>
-
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">product Branding</h5>
-                  <data value="85">85%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 85%"></div>
-                </div>
-              </li>
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">managerial</h5>
-                  <data value="85">85%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 85%"></div>
-                </div>
-              </li>
-
-              <li class="skills-item">
-                <div class="title-wrapper">
-                  <h5 class="h5">communication</h5>
-                  <data value="90">90%</data>
-                </div>
-
-                <div class="skill-progress-bg">
-                  <div class="skill-progress-fill" style="width: 90%"></div>
-                </div>
-              </li>
-            </ul>
-            <div class="skills-list content-card">
-
-            </div>
-          </section> -->
+        
         </article>
 
         <!--
@@ -1167,15 +1090,17 @@
 
     <!-- Project details modal  -->
     <div
-      class="modal fade how"
+      class="modal fade"
       id="projectDetailsModal"
       tabindex="-1"
       aria-labelledby="exampleModalLabel"
       aria-hidden="true"
+      style="cursor: url(https://payday.gainhq.com/images/close-cursor-light.png), auto !important;padding-right: 17px; display:;"
     >
-      <div class="modal-dialog modal-fullscreen">
+      <div class="modal-dialog modal-xl">
         <div class="modal-content">
           <div class="modal-header">
+            <h5 class="modal-title text-dark">Descriptions</h5>
             <button
               type="button"
               class="btn-close"
@@ -1185,14 +1110,15 @@
           </div>
           <div class="modal-body">
             <!-- Descriptins -->
-            <div class="container">
+            <div class="container text-dark" id="loading-img">
               <div class="row justify-content-center">
                 <div class="col-lg-6">
-
-                
-
+                  <img src="./assets/images/loading.gif" alt="Loading...">
                 </div>
               </div>
+            </div>
+            <div class="modal-loaded-content">
+
             </div>
             <!-- Descriptions -->
           </div>
@@ -1209,6 +1135,7 @@
       </div>
     </div>
     <!-- End-of Project details modal  -->
+
 
     <script
       src="https://code.jquery.com/jquery-3.7.1.min.js"
@@ -1335,140 +1262,11 @@
         this.classList.add("active");
       });
       // Filer portfolio custom
-
     </script>
+ 
 
-    <script>
-      $(".project-list").on("click", ".projectDetailsBtn", async function () {
-        try {
-          const projectId = $(this).attr("projectId");
-          $("#projectDetailsModal").modal("show");
 
-          // Fetch the JSON data
-          const response = await fetch("./assets/data/projects.json");
-
-          // Check if the response status is OK (status code 200)
-          if (!response.ok) {
-            throw new Error("Network response was not ok");
-          }
-
-          // Parse the response as JSON
-          const data = await response.json();
-
-          // Find the project details
-          const [projectDetails] = data.filter((item) => item.id === projectId);
-
-          // Set the modal body content
-          $("#projectDetailsModal .modal-body").html(
-            projectDetails.description
-          );
-        } catch (error) {
-          console.error("Error:", error);
-        }
-      });
-    </script>
-
-    <script>
-      // Define the URL of the JSON file
-      const jsonUrl = "blog.json";
-
-      // Select the ul element where you want to append the data
-      const ul = document.getElementById("blogList");
-
-      // Fetch the JSON data
-      fetch(jsonUrl)
-        .then((response) => response.json())
-        .then((data) => {
-          // Loop through the JSON data and create list items
-          data.forEach((item) => {
-            const li = document.createElement("li");
-            li.classList.add("blog-post-item");
-
-            const a = document.createElement("a");
-            a.href = item.url;
-            a.target = "_blank";
-
-            const figure = document.createElement("figure");
-            figure.classList.add("blog-banner-box");
-
-            const img = document.createElement("img");
-            img.src = item.image;
-            img.alt = item.imageAlt;
-            img.loading = "lazy";
-
-            figure.appendChild(img);
-
-            const content = document.createElement("div");
-            content.classList.add("blog-content");
-
-            const meta = document.createElement("div");
-            meta.classList.add("blog-meta");
-
-            const category = document.createElement("p");
-            category.classList.add("blog-category mb-0");
-            category.textContent = item.category;
-
-            const dot = document.createElement("span");
-            dot.classList.add("dot");
-
-            const time = document.createElement("time");
-            time.setAttribute("datetime", item.date);
-            time.textContent = item.date;
-
-            meta.appendChild(category);
-            meta.appendChild(dot);
-            meta.appendChild(time);
-
-            const title = document.createElement("h3");
-            title.classList.add("h3", "blog-item-title");
-            title.textContent = item.title;
-
-            const text = document.createElement("p");
-            text.classList.add("blog-text");
-            text.textContent = item.description;
-
-            content.appendChild(meta);
-            content.appendChild(title);
-            content.appendChild(text);
-
-            a.appendChild(figure);
-            a.appendChild(content);
-
-            li.appendChild(a);
-            ul.appendChild(li);
-          });
-        })
-        .catch((error) => {
-          console.error("Error fetching JSON:", error);
-        });
-
-      // Mail
-      document.addEventListener("DOMContentLoaded", function () {
-        const contactForm = document.getElementById("contact-form");
-        const responseMessage = document.getElementById("response-message");
-        contactForm.addEventListener("submit", function (e) {
-          e.preventDefault();
-
-          const formData = new FormData(contactForm);
-
-          fetch("mail.php", {
-            method: "POST",
-            body: formData,
-          })
-            .then((response) => response.text())
-            .then((data) => {
-              responseMessage.innerHTML = data;
-              contactForm.reset(); // Clear the form after submission
-            })
-            .catch((error) => {
-              responseMessage.innerHTML =
-                "An error occurred. Please try again.";
-              console.error(error);
-            });
-        });
-      });
-    </script>
-
+    <script src="portfolio.js"></script>
     <script src="./assets/js/script.js"></script>
   </body>
 </html>

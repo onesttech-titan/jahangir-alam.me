@@ -524,7 +524,7 @@ main {
   bottom: 0;
   left: 0;
   width: 100%;
-  background: hsla(240, 1%, 17%, 0.75);
+  background: hsla(240, 1%, 17%, 1);
   /* backdrop-filter: blur(10px); */
   /* border: 1px solid var(--jet); */
   border-radius: 12px 12px 0 0;
@@ -1918,7 +1918,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   main {
-    max-width: 1200px;
+    max-width: 1266px;
     margin-inline: auto;
     display: flex;
     justify-content: center;

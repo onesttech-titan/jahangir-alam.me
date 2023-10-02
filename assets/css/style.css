@@ -2198,6 +2198,11 @@ b, strong {
 	transition: var(--transition-1);
 }
 
-@media (min-width: 450px) {}
-
-.service-list {}
+@media (max-width: 576px) {
+  .service-list {
+    grid-template-columns: 100%;
+  }
+  #blogList {
+    padding-left: 0;
+  }
+}

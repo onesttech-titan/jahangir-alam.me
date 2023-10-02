@@ -2201,8 +2201,12 @@ b, strong {
 @media (max-width: 576px) {
   .service-list {
     grid-template-columns: 100%;
+    padding: 0;
   }
   #blogList {
     padding-left: 0;
+  }
+  .pulse {
+    right: 2px;
   }
 }

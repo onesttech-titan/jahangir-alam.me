@@ -26,6 +26,8 @@
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+
     <link rel="stylesheet" href="./assets/css/style.css" />
   </head>
 
@@ -112,7 +114,6 @@
             <li class="contact-item">
               <div class="contact-info">
                 <p class="contact-title">Location</p>
-
                 <address>Dhaka-Bangldesh</address>
               </div>
             </li>
@@ -122,21 +123,15 @@
 
           <ul class="social-list">
             <li class="social-item">
-              <a href="#" class="social-link">
-                <ion-icon name="logo-facebook"></ion-icon>
-              </a>
+              
+                <a href="https://www.linkedin.com/in/jahangir-alam-842a5b202" class="social-link" target="_blank">
+                  <i class="ri-linkedin-fill"></i>
+                </a>
             </li>
-
             <li class="social-item">
-              <a href="#" class="social-link">
-                <ion-icon name="logo-twitter"></ion-icon>
-              </a>
-            </li>
-
-            <li class="social-item">
-              <a href="#" class="social-link">
-                <ion-icon name="logo-instagram"></ion-icon>
-              </a>
+                <a href="https://github.com/jahangir-alam-babu" class="social-link" target="_blank">
+                    <i class="ri-github-fill"></i>
+                </a>
             </li>
           </ul>
         </div>
@@ -845,7 +840,8 @@
                 <button data-filter-btn>ui-ux design</button>
               </li>
             </ul>
-
+            
+            <!-- Mobile select items -->
             <div class="filter-select-box">
               <button class="filter-select" data-select>
                 <div class="select-value" data-selecct-value>
@@ -857,7 +853,7 @@
                 </div>
               </button>
 
-              <ul class="select-list">
+              <!-- <ul class="select-list">
                 <li class="select-item">
                   <button data-select-item>All</button>
                 </li>
@@ -878,6 +874,8 @@
                   <button data-select-item>ui-ux design</button>
                 </li>
               </ul>
+               -->
+               
             </div>
 
             <ul class="project-list px-0">
@@ -1095,7 +1093,7 @@
       tabindex="-1"
       aria-labelledby="exampleModalLabel"
       aria-hidden="true"
-      style="cursor: url(https://payday.gainhq.com/images/close-cursor-light.png), auto !important;padding-right: 17px; display:;"
+      style="cursor: url(https://payday.gainhq.com/images/close-cursor-light.png), auto !important;padding-right: 17px;"
     >
       <div class="modal-dialog modal-xl">
         <div class="modal-content">
@@ -1261,7 +1259,27 @@
         $(".filter-item button").removeClass("active");
         this.classList.add("active");
       });
+
+      // Mobile Filer portfolio custom
+      $(".select-list").on("click", "[data-filter-btn]", function () {
+        let selectedValue = this.innerText.toLowerCase();
+        selectValue.innerText = this.innerText;
+        const anotherfilterItems = $("[data-select-item]");
+
+        anotherfilterItems.each(function () {
+          const category = $(this).attr("data-category");
+          if (selectedValue === "all" || selectedValue === category) {
+            $(this).addClass("active");
+          } else {
+            $(this).removeClass("active");
+          }
+        });
+
+        $(".select-item button").removeClass("active");
+        this.classList.add("active");
+      });
       // Filer portfolio custom
+
     </script>
  
 

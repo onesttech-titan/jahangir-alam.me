@@ -39,7 +39,7 @@ $(".project-list").on("click", ".projectDetailsBtn", async function () {
         <div class="row justify-content-center">
           <div class="col-lg-6">
             <h1 class="text-dark">${title || ''}</h1>
-            <img src="${thumbnail || ''}" alt="Project Thumbnail" class"w-100">
+            <img src="${thumbnail || ''}" alt="Project Thumbnail" class="w-100">
             <p class="text-dark">${short_description || ''}</p>
             <h2 class="text-dark">Download</h2>
             <h6 class="text-dark d-flex gap-2"><a href="${appStore || ''}">App Store</a></h6>
@@ -70,7 +70,7 @@ $(".project-list").on("click", ".projectDetailsBtn", async function () {
   function renderDescriptionImages(description_images) {
     if (!description_images || !Array.isArray(description_images)) return '';
     return description_images
-      .map((row) => `<img src="${row.img || ''}" alt="Description Image" class"w-100">`)
+      .map((row) => `<img src="${row.img || ''}" alt="Description Image" class="w-100">`)
       .join('');
   }
 

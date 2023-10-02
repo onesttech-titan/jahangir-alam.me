@@ -390,7 +390,7 @@ main {
   transition: var(--transition-2);
 }
 
-.sidebar.active { max-height: 405px; }
+.sidebar.active { max-height: 700px; }
 
 .sidebar-info {
   position: relative;
@@ -587,6 +587,7 @@ main {
   grid-template-columns: 1fr;
   gap: 20px;
 }
+
 
 .service-item {
   position: relative;
@@ -954,11 +955,12 @@ main {
   #PORTFOLIO
 \*-----------------------------------*/
 
-.filter-list { display: none; }
+/* .filter-list { display: none; } */
 
 .filter-select-box {
   position: relative;
   margin-bottom: 25px;
+  display: none;
 }
 
 .filter-select {
@@ -1455,7 +1457,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     background: var(--eerie-black-2);
   }
 
-  .sidebar.active { max-height: 584px; }
+  .sidebar.active { max-height: 700px; }
 
   .sidebar-info { gap: 25px; }
 
@@ -1720,7 +1722,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .article-title { padding-bottom: 20px; }
 
-  .filter-select-box { display: none; }
+  /* .filter-select-box { display: none; } */
 
   .filter-list {
     display: flex;
@@ -1729,6 +1731,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     gap: 25px;
     padding-left: 5px;
     margin-bottom: 30px;
+
+    /* display: none; */
   }
 
   .filter-item button {
@@ -2088,11 +2092,37 @@ textarea.form-input::-webkit-resizer { display: none; }
 	background-color: unset;
 }
 
-
 .avatar-box img {
-	width: 150px;
-	height: 150px;
-	border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+
+@media (max-width: 576px) {
+  .avatar-box img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }
+}
+
+
+@media (max-width: 576px) {
+  .sidebar {
+    max-height: 90px;
+  }
+  .navbar-list {
+    justify-content: space-between;
+    width: 100%;
+  }
+}
+
+@media (max-width: 1024px) {
+  .navbar-list {
+    justify-content: space-between;
+    width: 100%;
+  }
 }
 
 
@@ -2143,8 +2173,31 @@ b, strong {
 /* End-of Mouse Coursor Event */
 
 
-
-.modal-content {
-	/* background: #232323; */
+.filter-list {
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	gap: 18px;
+	padding-left: 5px;
+	margin-bottom: 30px;
+	flex-wrap: wrap;
+}
+.filter-item button.active {
+	color: var(--orange-yellow-crayola);
 }
 
+.filter-item button {
+	color: var(--light-gray);
+	font-size: var(--fs-5);
+	transition: var(--transition-1);
+}
+
+.filter-item button {
+	color: var(--light-gray);
+	font-size: var(--fs-5);
+	transition: var(--transition-1);
+}
+
+@media (min-width: 450px) {}
+
+.service-list {}
